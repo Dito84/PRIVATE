@@ -1,0 +1,758 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="A&E --" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/A%26E.png" group-title="ENTRETENIMIENTO",A&E --
+http://108.175.10.242:80/Prueba123/Prueba123/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E --" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/A%26E.png" group-title="INFORMACON",A&E --
+http://108.175.10.242:80/Prueba123/Prueba123/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC --" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/AMC.png" group-title="ENTRETENIMIENTO",AMC --
+http://108.175.10.242:80/Prueba123/Prueba123/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC --" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/AMC.png" group-title="INFORMACON",AMC --
+http://108.175.10.242:80/Prueba123/Prueba123/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMPHIBIA TEM. 2" tvg-logo="https://th.bing.com/th/id/OIP.Fu1t9GqhPOxoGksfBbY4aQHaLH?pid=ImgDet&rs=1" group-title="INFANTILES - ANIME",AMPHIBIA TEM. 2
+http://108.175.10.242:80/Prueba123/Prueba123/242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMPHIBIA TEM.1" tvg-logo="http://108.175.10.242:80/images/b583a8486c25545785d98dfcaf7c278c.jpg" group-title="INFANTILES - ANIME",AMPHIBIA TEM.1
+http://108.175.10.242:80/Prueba123/Prueba123/221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://www.dropbox.com/s/i3iu4lupghj7k84/Animal%20Planet.png?dl=1" group-title="DOCUMENTALES",ANIMAL PLANET
+http://108.175.10.242:80/Prueba123/Prueba123/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATB" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/ATB.png" group-title="BOLIVIA",ATB
+http://108.175.10.242:80/Prueba123/Prueba123/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://www.dropbox.com/s/m99j08w9skmhj53/AXN%20HD.png?dl=1" group-title="DOCUMENTALES",AXN
+http://108.175.10.242:80/Prueba123/Prueba123/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ TV" tvg-logo="https://www.dropbox.com/s/td1gmpo0t2i5c9p/az.png?dl=1" group-title="INFANTILES - ANIME",AZ TV
+http://108.175.10.242:80/Prueba123/Prueba123/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="https://www.dropbox.com/s/uy8ciaht05ygvj6/Azcorazon.png?dl=1" group-title="CINE Y SERIES",Azcorazon
+http://108.175.10.242:80/Prueba123/Prueba123/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="https://www.dropbox.com/s/uy8ciaht05ygvj6/Azcorazon.png?dl=1" group-title="INFORMACON",Azcorazon
+http://108.175.10.242:80/Prueba123/Prueba123/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.dropbox.com/s/jylpyvx8snr77yk/Baby%20First.png?dl=1" group-title="INFANTILES - ANIME",Baby First
+http://108.175.10.242:80/Prueba123/Prueba123/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://www.dropbox.com/s/p66u82ta7v57xhg/BBC%20World.png?dl=1" group-title="DOCUMENTALES",BBC World
+http://108.175.10.242:80/Prueba123/Prueba123/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://www.dropbox.com/s/p66u82ta7v57xhg/BBC%20World.png?dl=1" group-title="ENTRETENIMIENTO",BBC World
+http://108.175.10.242:80/Prueba123/Prueba123/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://www.dropbox.com/s/p66u82ta7v57xhg/BBC%20World.png?dl=1" group-title="INFORMACON",BBC World
+http://108.175.10.242:80/Prueba123/Prueba123/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://108.175.10.242:80/images/348650885bb6725431ec664eb9f75dc5.png" group-title="INFANTILES - ANIME",BOB ESPONJA
+http://108.175.10.242:80/Prueba123/Prueba123/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia TV" tvg-logo="https://www.dropbox.com/s/38i00x9ksdpipoy/BOLIVIA%20TV.jpg?dl=1" group-title="BOLIVIA",Bolivia TV
+http://108.175.10.242:80/Prueba123/Prueba123/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia TV 2" tvg-logo="https://www.dropbox.com/s/38i00x9ksdpipoy/BOLIVIA%20TV.jpg?dl=1" group-title="BOLIVIA",Bolivia TV 2
+http://108.175.10.242:80/Prueba123/Prueba123/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION" tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA",BOLIVISION
+http://108.175.10.242:80/Prueba123/Prueba123/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cadena A" tvg-logo="https://www.dropbox.com/s/n9v3qhot9pgbrzc/CADENA%20A.jpg?dl=1" group-title="BOLIVIA",Cadena A
+http://108.175.10.242:80/Prueba123/Prueba123/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="https://www.dropbox.com/s/swuy2pypslyym1j/Canal%20Claro.jpg?dl=1" group-title="DOCUMENTALES",Canal Claro
+http://108.175.10.242:80/Prueba123/Prueba123/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="https://www.dropbox.com/s/swuy2pypslyym1j/Canal%20Claro.jpg?dl=1" group-title="INFORMACON",Canal Claro
+http://108.175.10.242:80/Prueba123/Prueba123/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QATAR ALTER 3" tvg-logo="http://108.175.10.242:80/images/e40f936f7e00ef28636fcf981637456b.png" group-title="DEPORTES",QATAR ALTER 3
+http://108.175.10.242:80/Prueba123/Prueba123/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANELA HITS" tvg-logo="https://i0.wp.com/collectible506.com/wp-content/uploads/2021/10/Webp.net-resizeimage-13.png?fit=1200%2C720&ssl=1" group-title="MUSICA",CANELA HITS
+http://108.175.10.242:80/Prueba123/Prueba123/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAROLINA TV" tvg-logo="http://108.175.10.242:80/images/b3d0099d14f17accd6bc2df7e87e30d3.jpg" group-title="CHILE",CAROLINA TV
+http://108.175.10.242:80/Prueba123/Prueba123/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network --" tvg-logo="https://www.dropbox.com/s/04f7jjld9n7t411/Cartoon%20Network.png?dl=1" group-title="INFANTILES - ANIME",Cartoon Network --
+http://108.175.10.242:80/Prueba123/Prueba123/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito --" tvg-logo="https://www.dropbox.com/s/4n3dgteylj73oz4/Cartoonito.png?dl=1" group-title="INFANTILES - ANIME",Cartoonito --
+http://108.175.10.242:80/Prueba123/Prueba123/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASO CERRADO INMIGRACION HD 24/7" tvg-logo="http://108.175.10.242:80/images/1e50ca0a5f1bf115c3c0728a0098ef4b.jpg" group-title="CANALES 24/7",CASO CERRADO INMIGRACION HD 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL COMEDIA --" tvg-logo="http://108.175.10.242:80/images/3c76c66ac15803040c43a34d82978c87.png" group-title="DOCUMENTALES",CENTRAL COMEDIA --
+http://108.175.10.242:80/Prueba123/Prueba123/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV" tvg-logo="" group-title="PERU",CENTRAL TV
+http://108.175.10.242:80/Prueba123/Prueba123/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHACRA TV" tvg-logo="http://108.175.10.242:80/images/b175a75cfaac09d3ce454d9bcc0bc3f1.jpg" group-title="ARGENTINA",CHACRA TV
+http://108.175.10.242:80/Prueba123/Prueba123/189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINCO TV" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/CINCOTV.jpg" group-title="ARGENTINA",CINCO TV
+http://108.175.10.242:80/Prueba123/Prueba123/188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE - FOX ACCION" tvg-logo="https://www.dropbox.com/s/f9c1tbzt7rmrxsy/cine%20fox.jpg?dl=1" group-title="DOCUMENTALES",CINE - FOX ACCION
+http://108.175.10.242:80/Prueba123/Prueba123/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE AR" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/CINE_AR.jpg" group-title="ARGENTINA",CINE AR
+http://108.175.10.242:80/Prueba123/Prueba123/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://www.dropbox.com/s/i6f7dkbkgge8rnf/Cine%20Latino.png?dl=1" group-title="CINE Y SERIES",Cine Latino
+http://108.175.10.242:80/Prueba123/Prueba123/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO" tvg-logo="https://www.dropbox.com/s/b42xtaii4hkxuyc/cine%20mundo.png?dl=1" group-title="CINE Y SERIES",CINE MUNDO
+http://108.175.10.242:80/Prueba123/Prueba123/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://www.dropbox.com/s/ddaemoctqneeney/CINECANAL%20HD.png?dl=1" group-title="CINE Y SERIES",CINECANAL HD
+http://108.175.10.242:80/Prueba123/Prueba123/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax --" tvg-logo="https://www.dropbox.com/s/xjiw96kn2aqo0om/CineMax.png?dl=1" group-title="CINE Y SERIES",Cinemax --
+http://108.175.10.242:80/Prueba123/Prueba123/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax --" tvg-logo="https://www.dropbox.com/s/xjiw96kn2aqo0om/CineMax.png?dl=1" group-title="DOCUMENTALES",Cinemax --
+http://108.175.10.242:80/Prueba123/Prueba123/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://th.bing.com/th/id/R.70ce8176b58a2376160bfafb91528246?rik=w%2fxBliB64vjn0Q&pid=ImgRaw&r=0" group-title="CINE Y SERIES",City TV
+http://108.175.10.242:80/Prueba123/Prueba123/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD TV RESISTENCIA" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/CIUDAD_TV.jpg" group-title="ARGENTINA",CIUDAD TV RESISTENCIA
+http://108.175.10.242:80/Prueba123/Prueba123/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="https://www.dropbox.com/s/frqr3s6hwi9gchl/Claro%20Cinema.png?dl=1" group-title="CINE Y SERIES",Claro Cinema
+http://108.175.10.242:80/Prueba123/Prueba123/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="https://www.dropbox.com/s/c5exu5l2nclsek4/Claro%20Musica.png?dl=1" group-title="MUSICA",Claro Musica
+http://108.175.10.242:80/Prueba123/Prueba123/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/220?cb=20210414152347&path-prefix=es" group-title="DEPORTES",Claro Sports SD
+http://108.175.10.242:80/Prueba123/Prueba123/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNNE" tvg-logo="https://www.dropbox.com/s/ghkvk57d7j64h33/CNNE.png?dl=1" group-title="INFORMACON",CNNE
+http://108.175.10.242:80/Prueba123/Prueba123/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es" group-title="MUSICA",Concert Channel
+http://108.175.10.242:80/Prueba123/Prueba123/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes - La Liga Premier" tvg-logo="http://108.175.10.242:80/images/e17363637370adbd7a5e4fac3abdc7d9.png" group-title="DEPORTES",Deportes - La Liga Premier
+http://108.175.10.242:80/Prueba123/Prueba123/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel --" tvg-logo="https://www.dropbox.com/s/k4uksqxovzhunud/Discovery%20Channel.jpg?dl=1" group-title="DOCUMENTALES",Discovery Channel --
+http://108.175.10.242:80/Prueba123/Prueba123/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://www.dropbox.com/s/1a97haezckwveey/Discovery%20Kids.jpg?dl=1" group-title="INFANTILES - ANIME",Discovery Kids
+http://108.175.10.242:80/Prueba123/Prueba123/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo --" tvg-logo="https://www.dropbox.com/s/2ffehuxkys37caj/Discovery%20Turbo.png?dl=1" group-title="DOCUMENTALES",Discovery Turbo --
+http://108.175.10.242:80/Prueba123/Prueba123/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo --" tvg-logo="https://www.dropbox.com/s/2ffehuxkys37caj/Discovery%20Turbo.png?dl=1" group-title="INFORMACON",Discovery Turbo --
+http://108.175.10.242:80/Prueba123/Prueba123/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/10/Disney-Channel.jpg?fit=900%2C675&ssl=1" group-title="CINE Y SERIES",Disney
+http://108.175.10.242:80/Prueba123/Prueba123/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://www.dropbox.com/s/v31rqtg0tag7bkc/Disney%20JR.png?dl=1" group-title="INFANTILES - ANIME",Disney Junior
+http://108.175.10.242:80/Prueba123/Prueba123/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="http://108.175.10.242:80/images/790c88b07394fa45c8c2951dee06f1a4.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://108.175.10.242:80/Prueba123/Prueba123/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE 24/7" tvg-logo="http://108.175.10.242:80/images/ab10636f9b0d7a9083c4af24112f9d7f.jpg" group-title="CANALES 24/7",DR. HOUSE 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 24/7" tvg-logo="https://www.dropbox.com/s/hkqptu6agd83rmb/Dragon-Ball-Full.jpg?dl=1" group-title="INFANTILES - ANIME",Dragon Ball 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTPlay.bo" tvg-logo="http://108.175.10.242:80/images/c718f9637cf588ee78478dfef771426c.png" group-title="DEPORTES",DTPlay.bo
+http://108.175.10.242:80/Prueba123/Prueba123/226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/DW.png" group-title="ARGENTINA",DW ESPAÑOL
+http://108.175.10.242:80/Prueba123/Prueba123/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://www.dropbox.com/s/h87cnj2qnk9h42e/E%21.png?dl=1" group-title="CINE Y SERIES",E!
+http://108.175.10.242:80/Prueba123/Prueba123/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://www.dropbox.com/s/h87cnj2qnk9h42e/E%21.png?dl=1" group-title="ENTRETENIMIENTO",E!
+http://108.175.10.242:80/Prueba123/Prueba123/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8 24/7" tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/2/2a/El_Chavo_del_Ocho_Logo_de_1973.png/revision/latest?cb=20130329230548&path-prefix=es" group-title="CANALES 24/7",EL CHAVO DEL 8 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8 24/7" tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/2/2a/El_Chavo_del_Ocho_Logo_de_1973.png/revision/latest?cb=20130329230548&path-prefix=es" group-title="CINE Y SERIES",EL CHAVO DEL 8 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="ENTRETENIMIENTO",El Gourmet
+http://108.175.10.242:80/Prueba123/Prueba123/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN BUSCA DE DIOS  24/7" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/03/Key_BuscandoADios_-br.jpg" group-title="CANALES 24/7",EN BUSCA DE DIOS  24/7
+http://108.175.10.242:80/Prueba123/Prueba123/216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://www.dropbox.com/s/sirqja0zbnp5lh6/ESPN.png?dl=1" group-title="DEPORTES",ESPN
+http://108.175.10.242:80/Prueba123/Prueba123/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="https://www.dropbox.com/s/98jqhz4bd7t7r3m/ESPN%20%20%2B.png?dl=1" group-title="DEPORTES",ESPN +
+http://108.175.10.242:80/Prueba123/Prueba123/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://www.dropbox.com/s/edmdks84fnoscfn/ESPN%202.png?dl=1" group-title="DEPORTES",ESPN 2
+http://108.175.10.242:80/Prueba123/Prueba123/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es" group-title="DEPORTES",ESPN 3
+http://108.175.10.242:80/Prueba123/Prueba123/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest?cb=20220119222338&path-prefix=pt-br" group-title="DEPORTES",ESPN 4
+http://108.175.10.242:80/Prueba123/Prueba123/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="https://www.dropbox.com/s/q9k2eds0op97hxk/EURO%20Channel.jpg?dl=1" group-title="DOCUMENTALES",EURO Channel
+http://108.175.10.242:80/Prueba123/Prueba123/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="https://www.dropbox.com/s/q9k2eds0op97hxk/EURO%20Channel.jpg?dl=1" group-title="ENTRETENIMIENTO",EURO Channel
+http://108.175.10.242:80/Prueba123/Prueba123/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://www.dropbox.com/s/j474iu4wr2obxd9/EWTN.png?dl=1" group-title="DOCUMENTALES",EWTN
+http://108.175.10.242:80/Prueba123/Prueba123/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://www.dropbox.com/s/j474iu4wr2obxd9/EWTN.png?dl=1" group-title="INFORMACON",EWTN
+http://108.175.10.242:80/Prueba123/Prueba123/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20130608202302" group-title="ENTRETENIMIENTO",Exa TV
+http://108.175.10.242:80/Prueba123/Prueba123/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="https://www.dropbox.com/s/zru2qsvc37mzy1c/FX.jpg?dl=1" group-title="CINE Y SERIES",Fox Channel
+http://108.175.10.242:80/Prueba123/Prueba123/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png/revision/latest?cb=20170828214324&path-prefix=es" group-title="DEPORTES",Fox Sport 3
+http://108.175.10.242:80/Prueba123/Prueba123/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="https://www.dropbox.com/s/smko5tk1ynfljc9/FOX%20Sports%202.png?dl=1" group-title="DEPORTES",FOX Sports 2
+http://108.175.10.242:80/Prueba123/Prueba123/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA 24/7" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/FUTURAMA.jpg" group-title="INFANTILES - ANIME",FUTURAMA 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/FX.jpg" group-title="DOCUMENTALES",FX
+http://108.175.10.242:80/Prueba123/Prueba123/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/Golden.png" group-title="DOCUMENTALES",GOLDEN
+http://108.175.10.242:80/Prueba123/Prueba123/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://www.dropbox.com/s/vyozgcm155yufjr/H2.jpg?dl=1" group-title="DOCUMENTALES",H2
+http://108.175.10.242:80/Prueba123/Prueba123/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://www.dropbox.com/s/vyozgcm155yufjr/H2.jpg?dl=1" group-title="ENTRETENIMIENTO",H2
+http://108.175.10.242:80/Prueba123/Prueba123/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER" tvg-logo="http://108.175.10.242:80/images/8173c24c8af6eedb7b772495c3f6e921.jpeg" group-title="CANALES 24/7",HARRY POTTER
+http://108.175.10.242:80/Prueba123/Prueba123/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/HBO2.png" group-title="DOCUMENTALES",HBO
+http://108.175.10.242:80/Prueba123/Prueba123/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CEoezJvRauUwlWZSLW47XObUUr0EWKyL9gwJ_P_4jJZDdcl8fH6bCRpVUu9Kav-ue1g&usqp=CAU" group-title="CINE Y SERIES",HBO Family
+http://108.175.10.242:80/Prueba123/Prueba123/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CEoezJvRauUwlWZSLW47XObUUr0EWKyL9gwJ_P_4jJZDdcl8fH6bCRpVUu9Kav-ue1g&usqp=CAU" group-title="ENTRETENIMIENTO",HBO Family
+http://108.175.10.242:80/Prueba123/Prueba123/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://www.dropbox.com/s/z949ps6ub0gfodr/HBO%20Plus.png?dl=1" group-title="ENTRETENIMIENTO",HBO Plus
+http://108.175.10.242:80/Prueba123/Prueba123/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://www.dropbox.com/s/z949ps6ub0gfodr/HBO%20Plus.png?dl=1" group-title="INFORMACON",HBO Plus
+http://108.175.10.242:80/Prueba123/Prueba123/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://www.dropbox.com/s/ge9g4mwie14cmpu/HBO%20XTREME.png?dl=1" group-title="ENTRETENIMIENTO",HBO XTREME
+http://108.175.10.242:80/Prueba123/Prueba123/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://www.dropbox.com/s/ge9g4mwie14cmpu/HBO%20XTREME.png?dl=1" group-title="INFORMACON",HBO XTREME
+http://108.175.10.242:80/Prueba123/Prueba123/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISPAN TV AR" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/Hispan_Tv_logo.png" group-title="ARGENTINA",HISPAN TV AR
+http://108.175.10.242:80/Prueba123/Prueba123/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL --" tvg-logo="http://108.175.10.242:80/images/bd379bac03a29f7ff70ec7b38691c58c.png" group-title="DOCUMENTALES",HISTORY CHANNEL --
+http://108.175.10.242:80/Prueba123/Prueba123/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://www.dropbox.com/s/0d0chp8kq4kfmp5/ID.jpg?dl=1" group-title="DOCUMENTALES",Investigation Discovery
+http://108.175.10.242:80/Prueba123/Prueba123/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA TEORIA DEL BIG BANG 24/7 --" tvg-logo="http://108.175.10.242:80/images/72719e27239de7df5935d76fca58151a.png" group-title="CANALES 24/7",LA TEORIA DEL BIG BANG 24/7 --
+http://108.175.10.242:80/Prueba123/Prueba123/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" tvg-logo="https://www.dropbox.com/s/h2vtvj8g5atfadz/Latin%20America%20Sport.jpg?dl=1" group-title="ENTRETENIMIENTO",La voz de Maria
+http://108.175.10.242:80/Prueba123/Prueba123/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" tvg-logo="https://www.dropbox.com/s/h2vtvj8g5atfadz/Latin%20America%20Sport.jpg?dl=1" group-title="INFORMACON",La voz de Maria
+http://108.175.10.242:80/Prueba123/Prueba123/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latin America Sport" tvg-logo="https://www.dropbox.com/s/h2vtvj8g5atfadz/Latin%20America%20Sport.jpg?dl=1" group-title="DEPORTES",Latin America Sport
+http://108.175.10.242:80/Prueba123/Prueba123/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="https://www.dropbox.com/s/47r5fuax58he0y6/LIFE%20TIME.jpg?dl=1" group-title="DOCUMENTALES",LIFE TIME
+http://108.175.10.242:80/Prueba123/Prueba123/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="https://www.dropbox.com/s/47r5fuax58he0y6/LIFE%20TIME.jpg?dl=1" group-title="ENTRETENIMIENTO",LIFE TIME
+http://108.175.10.242:80/Prueba123/Prueba123/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOS LOCOS ADAMS 24/7" tvg-logo="http://108.175.10.242:80/images/c7d0b54239aa377b0ee4ee1615c0e8a8.jpg" group-title="CANALES 24/7",LOS LOCOS ADAMS 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON 24/7" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c043f7b9-ccc0-40f6-8a6f-bdce64c0d08e/d5m0vop-ed466cd9-bcef-41d2-bfba-fb709d0a173c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwNDNmN2I5LWNjYzAtNDBmNi04YTZmLWJkY2U2NGMwZDA4ZVwvZDVtMHZvcC1lZDQ2NmNkOS1iY2VmLTQxZDItYmZiYS1mYjcwOWQwYTE3M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4vGXLY2f5rVp_QD-B27cjIfnat7Uq7uRNMzV14UMTvw" group-title="INFANTILES - ANIME",LOS SIMPSON 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c043f7b9-ccc0-40f6-8a6f-bdce64c0d08e/d5m0vop-ed466cd9-bcef-41d2-bfba-fb709d0a173c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwNDNmN2I5LWNjYzAtNDBmNi04YTZmLWJkY2U2NGMwZDA4ZVwvZDVtMHZvcC1lZDQ2NmNkOS1iY2VmLTQxZDItYmZiYS1mYjcwOWQwYTE3M2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4vGXLY2f5rVp_QD-B27cjIfnat7Uq7uRNMzV14UMTvw" group-title="INFANTILES - ANIME",LOS SIMPSONS
+http://108.175.10.242:80/Prueba123/Prueba123/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOS TRES CHIFLADOS 24/7" tvg-logo="http://108.175.10.242:80/images/daeed5a44da4d3b6a5cfa5b84ae40165.jpg" group-title="CANALES 24/7",LOS TRES CHIFLADOS 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/M2O.jpg" group-title="MUSICA",M2O
+http://108.175.10.242:80/Prueba123/Prueba123/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MegaTV (Yacuiba)" tvg-logo="http://108.175.10.242:80/images/f50af5e9c4ecfd1100ab71eabe0bc571.png" group-title="BOLIVIA",MegaTV (Yacuiba)
+http://108.175.10.242:80/Prueba123/Prueba123/227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTM TV Live" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/MTV.png" group-title="MUSICA",MTM TV Live
+http://108.175.10.242:80/Prueba123/Prueba123/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://www.dropbox.com/s/ydl7k7gzjpxop21/MTV.png?dl=1" group-title="MUSICA",MTV
+http://108.175.10.242:80/Prueba123/Prueba123/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5e/MTV_00s_logo.png/revision/latest?cb=20201106173216" group-title="MUSICA",MTV 00s
+http://108.175.10.242:80/Prueba123/Prueba123/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="https://www.dropbox.com/s/6uxebw2gr8xkdnt/MTV%2080s.webp?dl=1" group-title="MUSICA",MTV 80s
+http://108.175.10.242:80/Prueba123/Prueba123/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://www.dropbox.com/s/tbnidtkx8mrw8ce/MTV%20HD.png?dl=1" group-title="MUSICA",MTV HD
+http://108.175.10.242:80/Prueba123/Prueba123/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://www.dropbox.com/s/ii63ohko7w0nc6m/MTV%20Hits.png?dl=1" group-title="MUSICA",MTV Hits
+http://108.175.10.242:80/Prueba123/Prueba123/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bf/Mp-08.png/revision/latest?cb=20110620211839&path-prefix=es" group-title="DOCUMENTALES",Multipremier
+http://108.175.10.242:80/Prueba123/Prueba123/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bf/Mp-08.png/revision/latest?cb=20110620211839&path-prefix=es" group-title="ENTRETENIMIENTO",Multipremier
+http://108.175.10.242:80/Prueba123/Prueba123/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo de la música" tvg-logo="https://www.dropbox.com/s/nk19fz39h91z7jv/Mundo%20de%20la%20m%C3%BAsica.jpg?dl=1" group-title="MUSICA",Mundo de la música
+http://108.175.10.242:80/Prueba123/Prueba123/125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/MUSICTOP.jpg" group-title="MUSICA",MUSIC TOP
+http://108.175.10.242:80/Prueba123/Prueba123/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA RETRO 80" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/RETROMUSIC_80.jpg" group-title="CANALES 24/7",MUSICA RETRO 80
+http://108.175.10.242:80/Prueba123/Prueba123/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://www.dropbox.com/s/rht178eq32y5e2u/National%20Geographic.png?dl=1" group-title="DOCUMENTALES",National Geographic
+http://108.175.10.242:80/Prueba123/Prueba123/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://www.dropbox.com/s/rht178eq32y5e2u/National%20Geographic.png?dl=1" group-title="ENTRETENIMIENTO",National Geographic
+http://108.175.10.242:80/Prueba123/Prueba123/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://www.dropbox.com/s/rht178eq32y5e2u/National%20Geographic.png?dl=1" group-title="INFORMACON",National Geographic
+http://108.175.10.242:80/Prueba123/Prueba123/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://108.175.10.242:80/images/b8e850321b3ff6a7460e8e4e919bbd73.png" group-title="ARGENTINA",NET TV
+http://108.175.10.242:80/Prueba123/Prueba123/187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://www.dropbox.com/s/xue6i9fqawh90t3/Nick%20Jr.png?dl=1" group-title="INFANTILES - ANIME",Nick Jr
+http://108.175.10.242:80/Prueba123/Prueba123/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.dropbox.com/s/fiiocwfmldykvq3/Nickelodeon.png?dl=1" group-title="INFANTILES - ANIME",Nickelodeon
+http://108.175.10.242:80/Prueba123/Prueba123/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS:CGTN 1" tvg-logo="http://108.175.10.242:80/images/46e5d06253a8ae94eaf48c99b0c12175.png" group-title="PERU",NOTICIAS:CGTN 1
+http://108.175.10.242:80/Prueba123/Prueba123/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O ONCE" tvg-logo="https://canaloncetv.s3.us-east-1.amazonaws.com/REST/data/images/logo-menu.webp" group-title="MEXICO",O ONCE
+http://108.175.10.242:80/Prueba123/Prueba123/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OVACIÓN PERU" tvg-logo="https://th.bing.com/th/id/OIP.Ti1fVA1hYQWEPrFFTuQ0JQHaD4?pid=ImgDet&rs=1" group-title="DEPORTES",OVACIÓN PERU
+http://108.175.10.242:80/Prueba123/Prueba123/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OVACIÓN PERU" tvg-logo="https://th.bing.com/th/id/OIP.Ti1fVA1hYQWEPrFFTuQ0JQHaD4?pid=ImgDet&rs=1" group-title="PERU",OVACIÓN PERU
+http://108.175.10.242:80/Prueba123/Prueba123/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PADRE AMERICANO 24/7" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/American-Dad.png" group-title="INFANTILES - ANIME",PADRE AMERICANO 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PADRE DE FAMILIA 24/7" tvg-logo="https://static.wikia.nocookie.net/padredefamilia/images/9/9a/Family_Guy.png/revision/latest?cb=20110205192944&path-prefix=es" group-title="INFANTILES - ANIME",PADRE DE FAMILIA 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAT Bolivia" tvg-logo="https://www.dropbox.com/s/wfpa1ubbtawaiq1/PAT.png?dl=1" group-title="BOLIVIA",PAT Bolivia
+http://108.175.10.242:80/Prueba123/Prueba123/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINGUINO TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_0wP1RM93XCPw7xRM9PbTgCPGuCQOMX-1RwE2lKw=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE",PINGUINO TV
+http://108.175.10.242:80/Prueba123/Prueba123/218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRUEBA CANAL" tvg-logo="http://108.175.10.242:80/images/824e7f6be8442692cc5a22342294b28f.jpg" group-title="CANALES 24/7",PRUEBA CANAL
+http://108.175.10.242:80/Prueba123/Prueba123/237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA_TAR 2022" tvg-logo="https://th.bing.com/th/id/OIP.G0GpdTVyYrT-dtQjyZGRmgHaE1?pid=ImgDet&rs=1" group-title="DEPORTES",QA_TAR 2022
+http://108.175.10.242:80/Prueba123/Prueba123/241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA_TAR 2022 ALT2" tvg-logo="http://108.175.10.242:80/images/c25c9ae4c3af23f2b33050206f28c4be.jpg" group-title="DEPORTES",QA_TAR 2022 ALT2
+http://108.175.10.242:80/Prueba123/Prueba123/238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RadioSanBorjaTV" tvg-logo="http://108.175.10.242:80/images/810f59aa03572c5cc059dc6566221dc4.png" group-title="BOLIVIA",RadioSanBorjaTV
+http://108.175.10.242:80/Prueba123/Prueba123/229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvd18Hm0NdNr4JlVX0x_1YjTlczirMfL_JzruDnN4Qm-s07Ch_5ZKrsjjTY1bVfNqfy4&usqp=CAU" group-title="CANALES 24/7",RAMBO 24/7
+http://108.175.10.242:80/Prueba123/Prueba123/215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://www.dropbox.com/s/gydiygyt2x0wurf/RCN%20Novelas.png?dl=1" group-title="ENTRETENIMIENTO",RCN Novelas
+http://108.175.10.242:80/Prueba123/Prueba123/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO DE BOLIVIA CBBA" tvg-logo="https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLveYBtvvkxzTV-eCh0rKeBuTsiSs-YfpDlJ-x2OiSXNB)/dm/3/x825whp/d/live-2.m3u8" group-title="BOLIVIA",RED UNO DE BOLIVIA CBBA
+http://108.175.10.242:80/Prueba123/Prueba123/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC HD" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/RETRO%20MUSIC.jpg" group-title="MUSICA",RETRO MUSIC HD
+http://108.175.10.242:80/Prueba123/Prueba123/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="https://www.dropbox.com/s/b7se1u2h1w37sc9/RHEMA%20TV.png?dl=1" group-title="INFORMACON",RHEMA TV
+http://108.175.10.242:80/Prueba123/Prueba123/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="https://www.dropbox.com/s/b7se1u2h1w37sc9/RHEMA%20TV.png?dl=1" group-title="ENTRETENIMIENTO",RHEMA TV
+http://108.175.10.242:80/Prueba123/Prueba123/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP" tvg-logo="https://www.dropbox.com/s/pqkg3a9pdhul34h/RTP.png?dl=1" group-title="BOLIVIA",RTP
+http://108.175.10.242:80/Prueba123/Prueba123/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="https://www.dropbox.com/s/brjpkrd9drqillm/Sembrador.png?dl=1" group-title="INFORMACON",Sembrador
+http://108.175.10.242:80/Prueba123/Prueba123/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://www.dropbox.com/s/ddix2nci03xo3x5/SEMILLITAS.jpg?dl=1" group-title="INFANTILES - ANIME",SEMILLITAS
+http://108.175.10.242:80/Prueba123/Prueba123/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://www.dropbox.com/s/exz4uw7nk5lq0j2/SONY.jpg?dl=1" group-title="ENTRETENIMIENTO",SONY
+http://108.175.10.242:80/Prueba123/Prueba123/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://www.dropbox.com/s/exz4uw7nk5lq0j2/SONY.jpg?dl=1" group-title="INFORMACON",SONY
+http://108.175.10.242:80/Prueba123/Prueba123/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/SONY%20HD.jpg" group-title="ENTRETENIMIENTO",SONY HD
+http://108.175.10.242:80/Prueba123/Prueba123/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/SONY%20HD.jpg" group-title="INFORMACON",SONY HD
+http://108.175.10.242:80/Prueba123/Prueba123/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/SPACE.png" group-title="DOCUMENTALES",SPACE
+http://108.175.10.242:80/Prueba123/Prueba123/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://www.dropbox.com/s/dpwz6cucxhfuhhm/SPACE%20HD.png?dl=1" group-title="DOCUMENTALES",SPACE HD
+http://108.175.10.242:80/Prueba123/Prueba123/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://www.dropbox.com/s/dpwz6cucxhfuhhm/SPACE%20HD.png?dl=1" group-title="ENTRETENIMIENTO",SPACE HD
+http://108.175.10.242:80/Prueba123/Prueba123/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://www.dropbox.com/s/dpwz6cucxhfuhhm/SPACE%20HD.png?dl=1" group-title="INFORMACON",SPACE HD
+http://108.175.10.242:80/Prueba123/Prueba123/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://www.dropbox.com/s/euv7e6fput6hevu/STAR%20CHANNEL%20HD.png?dl=1" group-title="DOCUMENTALES",STAR CHANNEL HD
+http://108.175.10.242:80/Prueba123/Prueba123/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://www.dropbox.com/s/euv7e6fput6hevu/STAR%20CHANNEL%20HD.png?dl=1" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
+http://108.175.10.242:80/Prueba123/Prueba123/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://www.dropbox.com/s/f91kd1epj5e5a8s/Studio%20Universal.png?dl=1" group-title="DOCUMENTALES",Studio Universal
+http://108.175.10.242:80/Prueba123/Prueba123/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://www.dropbox.com/s/f91kd1epj5e5a8s/Studio%20Universal.png?dl=1" group-title="ENTRETENIMIENTO",Studio Universal
+http://108.175.10.242:80/Prueba123/Prueba123/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="https://www.dropbox.com/s/yit3w8dc1atyo03/Sun%20Channel.png?dl=1" group-title="DOCUMENTALES",Sun Channel
+http://108.175.10.242:80/Prueba123/Prueba123/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="https://www.dropbox.com/s/yit3w8dc1atyo03/Sun%20Channel.png?dl=1" group-title="ENTRETENIMIENTO",Sun Channel
+http://108.175.10.242:80/Prueba123/Prueba123/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://www.dropbox.com/s/k06tculiozxzm4n/SyFy.png?dl=1" group-title="ENTRETENIMIENTO",SyFy
+http://108.175.10.242:80/Prueba123/Prueba123/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T y C SPORTS" tvg-logo="https://th.bing.com/th/id/R.9a59e313fcce8a7185f8adee9bc6e8c1?rik=TTWcI6sgyVQ42w&pid=ImgRaw&r=0" group-title="DEPORTES",T y C SPORTS
+http://108.175.10.242:80/Prueba123/Prueba123/234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" tvg-logo="https://www.dropbox.com/s/vywu727qfule24i/TBN%20Enlace.jpg?dl=1" group-title="INFORMACON",TBN Enlace
+http://108.175.10.242:80/Prueba123/Prueba123/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://www.dropbox.com/s/95m1dqhxifko7fn/TBS.png?dl=1" group-title="ENTRETENIMIENTO",TBS
+http://108.175.10.242:80/Prueba123/Prueba123/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://www.dropbox.com/s/82gf9ja3b8h3k3p/TCM.png?dl=1" group-title="ENTRETENIMIENTO",TCM
+http://108.175.10.242:80/Prueba123/Prueba123/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/telemax.png" group-title="PERU",TELEMAX
+http://108.175.10.242:80/Prueba123/Prueba123/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/Telemundo.jpg" group-title="DOCUMENTALES",Telemundo
+http://108.175.10.242:80/Prueba123/Prueba123/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISION UNIVERSITARIA (UMSA)" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=4193924&t=1660016978595" group-title="BOLIVIA",TELEVISION UNIVERSITARIA (UMSA)
+http://108.175.10.242:80/Prueba123/Prueba123/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tierra Mía TV" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/TIERRAMIA.jpg" group-title="ARGENTINA",Tierra Mía TV
+http://108.175.10.242:80/Prueba123/Prueba123/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT" tvg-logo="http://108.175.10.242:80/images/404c90063de595692e300a47667c1da0.jpg" group-title="BOLIVIA",TIGO SPORT
+http://108.175.10.242:80/Prueba123/Prueba123/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT" tvg-logo="http://108.175.10.242:80/images/404c90063de595692e300a47667c1da0.jpg" group-title="DEPORTES",TIGO SPORT
+http://108.175.10.242:80/Prueba123/Prueba123/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT BO 2" tvg-logo="http://108.175.10.242:80/images/003a2592a6bfa1b1ed16391e0c91f7fe.png" group-title="DEPORTES",TIGO SPORT BO 2
+http://108.175.10.242:80/Prueba123/Prueba123/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/TLC-Logo.png" group-title="ENTRETENIMIENTO",TLC
+http://108.175.10.242:80/Prueba123/Prueba123/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/TLC-Logo.png" group-title="INFORMACON",TLC
+http://108.175.10.242:80/Prueba123/Prueba123/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://www.dropbox.com/s/amdxo51opp6zrea/TNT.png?dl=1" group-title="CINE Y SERIES",TNT
+http://108.175.10.242:80/Prueba123/Prueba123/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://www.dropbox.com/s/amdxo51opp6zrea/TNT.png?dl=1" group-title="ENTRETENIMIENTO",TNT
+http://108.175.10.242:80/Prueba123/Prueba123/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://www.dropbox.com/s/amdxo51opp6zrea/TNT.png?dl=1" group-title="INFORMACON",TNT
+http://108.175.10.242:80/Prueba123/Prueba123/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/TNT%20Series.png" group-title="DOCUMENTALES",TNT SERIES
+http://108.175.10.242:80/Prueba123/Prueba123/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://www.dropbox.com/s/xp1kbainiti4w4v/Tooncast.png?dl=1" group-title="ENTRETENIMIENTO",Tooncast
+http://108.175.10.242:80/Prueba123/Prueba123/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/TOP_LATINO.png" group-title="MUSICA",TOP LATINO
+http://108.175.10.242:80/Prueba123/Prueba123/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="https://www.dropbox.com/s/2w9kwvvhjmsfswy/Tru%20TV.png?dl=1" group-title="ENTRETENIMIENTO",Tru TV
+http://108.175.10.242:80/Prueba123/Prueba123/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVU Sucre" tvg-logo="http://108.175.10.242:80/images/138b40fe974c5748f95b3e73c2c6d8cc.png" group-title="BOLIVIA",TVU Sucre
+http://108.175.10.242:80/Prueba123/Prueba123/228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unitel Peru" tvg-logo="https://www.dropbox.com/s/lzqg737ydidhb2t/unitelperu.png?dl=1" group-title="PERU",Unitel Peru
+http://108.175.10.242:80/Prueba123/Prueba123/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL Santa Cruz" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNITEL.jpg" group-title="BOLIVIA",UNITEL Santa Cruz
+http://108.175.10.242:80/Prueba123/Prueba123/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/Universal.png" group-title="CINE Y SERIES",Universal
+http://108.175.10.242:80/Prueba123/Prueba123/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/Universal.png" group-title="ENTRETENIMIENTO",Universal
+http://108.175.10.242:80/Prueba123/Prueba123/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNIVERSAL%20COMEDY.png" group-title="DOCUMENTALES",Universal Comedy
+http://108.175.10.242:80/Prueba123/Prueba123/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNIVERSAL%20CRIME.png" group-title="ENTRETENIMIENTO",UNIVERSAL CRIME
+http://108.175.10.242:80/Prueba123/Prueba123/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNIVERSAL%20PREMIERE.png" group-title="ENTRETENIMIENTO",UNIVERSAL PREMIERE
+http://108.175.10.242:80/Prueba123/Prueba123/175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNIVERSAL%20PREMIERE%20O.png" group-title="ENTRETENIMIENTO",UNIVERSAL PREMIERE O
+http://108.175.10.242:80/Prueba123/Prueba123/176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNIVERSAL%20REALITY.png" group-title="ENTRETENIMIENTO",UNIVERSAL REALITY
+http://108.175.10.242:80/Prueba123/Prueba123/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VALLENATO INTERNACIONAL" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/VALLENATOINTER.png" group-title="ARGENTINA",VALLENATO INTERNACIONAL
+http://108.175.10.242:80/Prueba123/Prueba123/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/WARNER%20HD.jpg" group-title="ENTRETENIMIENTO",WARNER HD
+http://108.175.10.242:80/Prueba123/Prueba123/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SD" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/WARNER%20HD.jpg" group-title="ENTRETENIMIENTO",WARNER SD
+http://108.175.10.242:80/Prueba123/Prueba123/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLOSAL TV" tvg-logo="http://108.175.10.242:80/images/48c1d2c56e40164bb5d45557bb3ce6b3.jpg" group-title="MUSICA",COLOSAL TV
+http://108.175.10.242:80/Prueba123/Prueba123/243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="" group-title="MUSICA",XITE
+http://108.175.10.242:80/Prueba123/Prueba123/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRINGO" tvg-logo="http://108.175.10.242:80/images/ad26f119a5fac2107a292d98e069622e.png" group-title="CINE Y SERIES",GRINGO
+http://108.175.10.242:80/Prueba123/Prueba123/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BJGTJME" tvg-logo="http://108.175.10.242:80/images/5e36d457c35bc233bed6b240cadb2059.png" group-title="CINE Y SERIES",BJGTJME
+http://108.175.10.242:80/Prueba123/Prueba123/246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSIPTV ARG SPORTS 3" tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES",SSIPTV ARG SPORTS 3
+http://108.175.10.242:80/Prueba123/Prueba123/247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIME HEROES" tvg-logo="http://108.175.10.242:80/images/85a873e0aa0164c6490652e11be3af39.png" group-title="INFANTILES - ANIME",ANIME HEROES
+http://108.175.10.242:80/Prueba123/Prueba123/248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26" tvg-logo="" group-title="DOCUMENTALES",CANAL 26
+http://108.175.10.242:80/Prueba123/Prueba123/249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="http://108.175.10.242:80/images/ebb9f0ee7082cbb74d29d7d05d5ac324.png" group-title="ARGENTINA",EL TRECE
+http://108.175.10.242:80/Prueba123/Prueba123/252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JIMMY NEUTRON 24/7 --" tvg-logo="https://th.bing.com/th/id/R.c07648ac8a69b5bda44b774bb768e473?rik=D%2ftHeCuraudWhg&pid=ImgRaw&r=1" group-title="INFANTILES - ANIME",JIMMY NEUTRON 24/7 --
+http://108.175.10.242:80/Prueba123/Prueba123/255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA 24/7 --" tvg-logo="https://th.bing.com/th/id/OIP.kFed51Nd8HHyY5Nkm7vDjQHaKK?pid=ImgDet&rs=1" group-title="INFANTILES - ANIME",LA PANTERA ROSA 24/7 --
+http://108.175.10.242:80/Prueba123/Prueba123/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VACA Y POLLITO 24/7 --" tvg-logo="https://th.bing.com/th/id/R.de206c11ee283e4aabe37c8aa312c5f0?rik=V9AXaNqAdV3ZXA&pid=ImgRaw&r=0" group-title="INFANTILES - ANIME",VACA Y POLLITO 24/7 --
+http://108.175.10.242:80/Prueba123/Prueba123/257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PHINIAS y FER 24/7 --" tvg-logo="https://th.bing.com/th/id/OIP.e0-lLkYq20e-QKrV7xNDRgHaIT?pid=ImgDet&rs=1" group-title="INFANTILES - ANIME",PHINIAS y FER 24/7 --
+http://108.175.10.242:80/Prueba123/Prueba123/258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOS HOMBRES Y MEDIO" tvg-logo="" group-title="CANALES 24/7",DOS HOMBRES Y MEDIO
+http://108.175.10.242:80/Prueba123/Prueba123/259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EMPEÑOS A LO BESTIA" tvg-logo="http://108.175.10.242:80/images/02db22c42182a5a1a3132389721f439d.png" group-title="PLUTO TV",EMPEÑOS A LO BESTIA
+http://108.175.10.242:80/Prueba123/Prueba123/299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL MARIACHI" tvg-logo="http://108.175.10.242:80/images/e854d77effef965bc4177def9be286cd.png" group-title="PLUTO TV",EL MARIACHI
+http://108.175.10.242:80/Prueba123/Prueba123/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROCK STORY" tvg-logo="http://108.175.10.242:80/images/e4c51d3f35e0d5bdb8f84da99aa11e23.png" group-title="PLUTO TV",ROCK STORY
+http://108.175.10.242:80/Prueba123/Prueba123/301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON ICARLY" tvg-logo="http://108.175.10.242:80/images/cb8ba782ddeeddfe6f6a1f5b55184e3c.png" group-title="PLUTO TV",NICKELODEON ICARLY
+http://108.175.10.242:80/Prueba123/Prueba123/302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL TURNO DE NOCHE" tvg-logo="http://108.175.10.242:80/images/aafaa67e92852c49758255842c70a0af.png" group-title="PLUTO TV",EL TURNO DE NOCHE
+http://108.175.10.242:80/Prueba123/Prueba123/303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAESTROS DE LA ILUSIÓN" tvg-logo="http://108.175.10.242:80/images/1710815922f21d7fae215e0dd179f9ae.png" group-title="PLUTO TV",MAESTROS DE LA ILUSIÓN
+http://108.175.10.242:80/Prueba123/Prueba123/304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEATH NOTE" tvg-logo="http://108.175.10.242:80/images/4a75e891773c2538018e6086f75614da.png" group-title="INFANTILES - ANIME",DEATH NOTE
+http://108.175.10.242:80/Prueba123/Prueba123/305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA DEL BARRIO" tvg-logo="http://108.175.10.242:80/images/7fe10906c9f855d3f4c7323b3324a0ff.png" group-title="INFANTILES - ANIME",LA FAMILIA DEL BARRIO
+http://108.175.10.242:80/Prueba123/Prueba123/306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE ACCIÓN" tvg-logo="http://108.175.10.242:80/images/05c89af69ce91804e93792566c409ad6.png" group-title="PLUTO TV",PLUTO TV CINE ACCIÓN
+http://108.175.10.242:80/Prueba123/Prueba123/307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE COMEDIA" tvg-logo="http://108.175.10.242:80/images/865bc0b8b84aa6d0559a163b1236e3bf.png" group-title="PLUTO TV",PLUTO TV CINE COMEDIA
+http://108.175.10.242:80/Prueba123/Prueba123/308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV CINE FAMILIA" tvg-logo="http://108.175.10.242:80/images/79c9476d3dca0bd8886654b1c760783e.png" group-title="PLUTO TV",PLUTO TV CINE FAMILIA
+http://108.175.10.242:80/Prueba123/Prueba123/309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV HUMOR" tvg-logo="http://108.175.10.242:80/images/7b93e04acc3921175c7d4ece94b2b017.png" group-title="PLUTO TV",PLUTO TV HUMOR
+http://108.175.10.242:80/Prueba123/Prueba123/310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - CINE ESTELAR" tvg-logo="" group-title="PLUTO TV",PLUTO TV - CINE ESTELAR
+http://108.175.10.242:80/Prueba123/Prueba123/311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOS PICAPIERDRAS" tvg-logo="https://static.wikia.nocookie.net/hanna-barbera/images/0/0f/416-4167243_car-in-the-flintstones-hd-png-download.png/revision/latest?cb=20210803225923&path-prefix=es" group-title="INFANTILES - ANIME",LOS PICAPIERDRAS
+http://108.175.10.242:80/Prueba123/Prueba123/319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL ZODIACO" tvg-logo="http://108.175.10.242:80/images/575b0ae7d64d219726ab183340e03b42.png" group-title="INFANTILES - ANIME",CABALLEROS DEL ZODIACO
+http://108.175.10.242:80/Prueba123/Prueba123/320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANDI CANDI" tvg-logo="http://108.175.10.242:80/images/7dd364175611bedb61f3fdfa85b6e2fc.jpg" group-title="INFANTILES - ANIME",CANDI CANDI
+http://108.175.10.242:80/Prueba123/Prueba123/321.m3u8
+#EXTINF:-1 tvg-name="ANGRY BEAR" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/ANGRY_BIRDS.jpg" group-title="FAMILIAR",ANGRY BEAR
+http://108.175.10.242:80/movie/Prueba123/Prueba123/26.mp4
+#EXTINF:-1 tvg-name="Deadpool" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/DEADPOOL.jpg" group-title="FAMILIAR",Deadpool
+http://108.175.10.242:80/movie/Prueba123/Prueba123/42.mp4
+#EXTINF:-1 tvg-name="DEPREDADOR - LA PRESA" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/prey_teaser_poster_las_v2_78e591c2.png?region=0,0,770,1100" group-title="ACCION",DEPREDADOR - LA PRESA
+http://108.175.10.242:80/movie/Prueba123/Prueba123/65.mp4
+#EXTINF:-1 tvg-name="Dragon Ball Primer Torneo" tvg-logo="https://www.dropbox.com/s/hkqptu6agd83rmb/Dragon-Ball-Full.jpg?dl=1" group-title="FAMILIAR",Dragon Ball Primer Torneo
+http://108.175.10.242:80/movie/Prueba123/Prueba123/182.mp4
+#EXTINF:-1 tvg-name="EL GORDO Y EL FLACO" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/GORDO_Y_FLACO.jpg" group-title="FAMILIAR",EL GORDO Y EL FLACO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/33.mp4
+#EXTINF:-1 tvg-name="HORAS CONTADAS" tvg-logo="https://play-lh.googleusercontent.com/t3f15ramD_thXfKZCxq1Yg9Ev21u80NByGmY4U6iblQ-fle6CARs2BbF9WpSy5QtUOjSKA" group-title="FAMILIAR",HORAS CONTADAS
+http://108.175.10.242:80/movie/Prueba123/Prueba123/43.mp4
+#EXTINF:-1 tvg-name="La Fuerza De La Ilusion" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/LA_FUERZA.jpg" group-title="FAMILIAR",La Fuerza De La Ilusion
+http://108.175.10.242:80/movie/Prueba123/Prueba123/32.mp4
+#EXTINF:-1 tvg-name="La Reina del hielo" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/la_Reina_del_Hielo.jpg" group-title="FAMILIAR",La Reina del hielo
+http://108.175.10.242:80/movie/Prueba123/Prueba123/3.mp4
+#EXTINF:-1 tvg-name="LIGHTYEAR 2022" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/LAYER.jpg" group-title="FAMILIAR",LIGHTYEAR 2022
+http://108.175.10.242:80/movie/Prueba123/Prueba123/162.mp4
+#EXTINF:-1 tvg-name="LOS LOCOS ADAM" tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/Loco_Adams.jpg" group-title="ANIME",LOS LOCOS ADAM
+http://108.175.10.242:80/movie/Prueba123/Prueba123/199.mp4
+#EXTINF:-1 tvg-name="LOS LOCOS ADAMS 2" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Los_Locos_Addams_2.jpg" group-title="ANIME",LOS LOCOS ADAMS 2
+http://108.175.10.242:80/movie/Prueba123/Prueba123/201.mp4
+#EXTINF:-1 tvg-name="MEAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIANpQ4qU_Gd7JqrUsZKSVQO69y4ztWopPcKivYcLfWojw2nQe_y9aWwkzDojc-m7bMe8&usqp=CAU" group-title="FAMILIAR",MEAD
+http://108.175.10.242:80/movie/Prueba123/Prueba123/66.mp4
+#EXTINF:-1 tvg-name="MEAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIANpQ4qU_Gd7JqrUsZKSVQO69y4ztWopPcKivYcLfWojw2nQe_y9aWwkzDojc-m7bMe8&usqp=CAU" group-title="ACCION",MEAD
+http://108.175.10.242:80/movie/Prueba123/Prueba123/66.mp4
+#EXTINF:-1 tvg-name="PARQUE JURASICO d" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Parque_Jur_sico.jpg" group-title="FAMILIAR",PARQUE JURASICO d
+http://108.175.10.242:80/movie/Prueba123/Prueba123/48.mp4
+#EXTINF:-1 tvg-name="PARQUE JURASICO d" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Parque_Jur_sico.jpg" group-title="ACCION",PARQUE JURASICO d
+http://108.175.10.242:80/movie/Prueba123/Prueba123/48.mp4
+#EXTINF:-1 tvg-name="Prometeus" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/prometeus.jpg" group-title="ACCION",Prometeus
+http://108.175.10.242:80/movie/Prueba123/Prueba123/181.mp4
+#EXTINF:-1 tvg-name="SAHARA MOVIE" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/80/16ab776ab91cdf9e2bab2dedeef371d86ba19a90.jpg/revision/latest?cb=20180714210838&path-prefix=es" group-title="FAMILIAR",SAHARA MOVIE
+http://108.175.10.242:80/movie/Prueba123/Prueba123/35.mp4
+#EXTINF:-1 tvg-name="SAMARITAN" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/08/Samaritan.png?resize=347%2C493&quality=50&strip=all&ssl=1" group-title="FAMILIAR",SAMARITAN
+http://108.175.10.242:80/movie/Prueba123/Prueba123/67.mp4
+#EXTINF:-1 tvg-name="SAMARITAN" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/08/Samaritan.png?resize=347%2C493&quality=50&strip=all&ssl=1" group-title="ACCION",SAMARITAN
+http://108.175.10.242:80/movie/Prueba123/Prueba123/67.mp4
+#EXTINF:-1 tvg-name="Thor: Amor y trueno" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/thor_amor_y_trueno.jpeg" group-title="ACCION",Thor: Amor y trueno
+http://108.175.10.242:80/movie/Prueba123/Prueba123/161.mp4
+#EXTINF:-1 tvg-name="Thor: Amor y trueno" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/thor_amor_y_trueno.jpeg" group-title="FAMILIAR",Thor: Amor y trueno
+http://108.175.10.242:80/movie/Prueba123/Prueba123/161.mp4
+#EXTINF:-1 tvg-name="TODO PODEROSO" tvg-logo="https://images.justwatch.com/poster/181909645/s718/todo-poderoso.%7Bformat%7D" group-title="FAMILIAR",TODO PODEROSO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/34.mp4
+#EXTINF:-1 tvg-name="VOLVER AL FUTURO" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Volver_al_Futuro.jpg" group-title="FAMILIAR",VOLVER AL FUTURO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/164.mp4
+#EXTINF:-1 tvg-name="Volver al Futuro II" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Volver_al_Futuro_II.jpg" group-title="FAMILIAR",Volver al Futuro II
+http://108.175.10.242:80/movie/Prueba123/Prueba123/168.mp4
+#EXTINF:-1 tvg-name="Volver al Futuro II" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Volver_al_Futuro_II.jpg" group-title="ACCION",Volver al Futuro II
+http://108.175.10.242:80/movie/Prueba123/Prueba123/168.mp4
+#EXTINF:-1 tvg-name="Volver al Futuro III" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Volver_al_Futuro_III.jpg" group-title="FAMILIAR",Volver al Futuro III
+http://108.175.10.242:80/movie/Prueba123/Prueba123/167.mp4
+#EXTINF:-1 tvg-name="Volver al Futuro III" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/Volver_al_Futuro_III.jpg" group-title="ACCION",Volver al Futuro III
+http://108.175.10.242:80/movie/Prueba123/Prueba123/167.mp4
+#EXTINF:-1 tvg-name="YES MAN" tvg-logo="http://108.175.10.242:80/images/7cbbdec6032a3f8ad911946366be8fb5.jpg" group-title="FAMILIAR",YES MAN
+http://108.175.10.242:80/movie/Prueba123/Prueba123/202.mp4
+#EXTINF:-1 tvg-name="BLACK ADAM" tvg-logo="https://github.com/Dito84/ICONO_PELI/raw/main/BlackAdam.jpg" group-title="ACCION",BLACK ADAM
+http://108.175.10.242:80/movie/Prueba123/Prueba123/213.mp4
+#EXTINF:-1 tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://github.com/Dito84/ICONO_PELI/blob/main/WacandaForever.jpg?raw=true" group-title="ACCION",Black Panther: Wakanda Forever (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/222.mp4
+#EXTINF:-1 tvg-name="ENCANTO" tvg-logo="https://github.com/Dito84/ICONO_PELI/blob/main/Encanto.jpg?raw=true" group-title="ANIME",ENCANTO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/224.mp4
+#EXTINF:-1 tvg-name="GUARDIANES DE LA GALAXIA: ESPECIAL NAVIDAD" tvg-logo="https://github.com/Dito84/ICONO_PELI/blob/main/Guardia_Nav.jpg?raw=true" group-title="ACCION",GUARDIANES DE LA GALAXIA: ESPECIAL NAVIDAD
+http://108.175.10.242:80/movie/Prueba123/Prueba123/233.mp4
+#EXTINF:-1 tvg-name="GUARDIANES DE LA GALAXIA: ESPECIAL NAVIDAD" tvg-logo="https://github.com/Dito84/ICONO_PELI/blob/main/Guardia_Nav.jpg?raw=true" group-title="FAMILIAR",GUARDIANES DE LA GALAXIA: ESPECIAL NAVIDAD
+http://108.175.10.242:80/movie/Prueba123/Prueba123/233.mp4
+#EXTINF:-1 tvg-name="EL CASO DE CRISTO" tvg-logo="https://github.com/Dito84/ICONO_PELI/blob/main/Guardia_Nav.jpg?raw=true" group-title="FAMILIAR",EL CASO DE CRISTO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/239.mp4
+#EXTINF:-1 tvg-name="INCREÍBLES 2" tvg-logo="https://github.com/Dito84/ICONO_PELI/blob/main/Guardia_Nav.jpg?raw=true" group-title="ANIME",INCREÍBLES 2
+http://108.175.10.242:80/movie/Prueba123/Prueba123/240.ts
+#EXTINF:-1 tvg-name="EL GRINCH ANIMADO" tvg-logo="https://i2.wp.com/modogeeks.com/wp-content/uploads/2018/12/grinch.jpg?resize=1280%2C640&ssl=1" group-title="ANIME",EL GRINCH ANIMADO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/250.mp4
+#EXTINF:-1 tvg-name="El GRINCH" tvg-logo="http://108.175.10.242:80/images/46c72c5ecf076fa171e8ced9f60735b6.png" group-title="FAMILIAR",El GRINCH
+http://108.175.10.242:80/movie/Prueba123/Prueba123/253.mp4
+#EXTINF:-1 tvg-name="EL MUNDO EXTRAÑO" tvg-logo="http://108.175.10.242:80/images/46c72c5ecf076fa171e8ced9f60735b6.png" group-title="ANIME",EL MUNDO EXTRAÑO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/254.mp4
+#EXTINF:-1 tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="http://108.175.10.242:80/images/75fe037f4584f9995abc825e6062212c.png" group-title="FAMILIAR",Pinocho de Guillermo del Toro (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/261.mkv
+#EXTINF:-1 tvg-name="MI AMIGO ES UN COCODRILO" tvg-logo="http://108.175.10.242:80/images/1057985147f12490e9fccf6d1ef5abc8.png" group-title="ANIME",MI AMIGO ES UN COCODRILO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/262.mp4
+#EXTINF:-1 tvg-name="LUCA 2021" tvg-logo="http://108.175.10.242:80/images/d816a3515c1e3d5d079934eac6d659ac.png" group-title="ANIME",LUCA 2021
+http://108.175.10.242:80/movie/Prueba123/Prueba123/263.mp4
+#EXTINF:-1 tvg-name="Amenaza explosiva (2021)" tvg-logo="https://i0.wp.com/fandompelicula.com/wp-content/uploads/2022/10/Portadas-WORDPRESS.png?fit=1280%2C720&ssl=1" group-title="ACCION",Amenaza explosiva (2021)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/264.mp4
+#EXTINF:-1 tvg-name="Sonríe (2022)" tvg-logo="http://108.175.10.242:80/images/4fa8c86381b0a23983d571126d4f2998.jpg" group-title="TERROR",Sonríe (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/265.mp4
+#EXTINF:-1 tvg-name="Navidad de golpe (2022)" tvg-logo="http://108.175.10.242:80/images/4714b3de76f8586d59b3a5059747e4f8.jpg" group-title="FAMILIAR",Navidad de golpe (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/267.mp4
+#EXTINF:-1 tvg-name="La Leyenda de la Bruja de Navidad: El Origen (2021)" tvg-logo="https://th.bing.com/th/id/R.f22580ca37b9dee18710ca4a63f60899?rik=SWhw2nOTKvUDEg&riu=http%3a%2f%2f1.bp.blogspot.com%2f_Urgi3AHd6w4%2fTM3kXNTF1wI%2fAAAAAAAACwY%2fgT1K7UH9vuI%2fs1600%2ftres%2bbrujas.jpg&ehk=OxbvMWYXaPbSnd5%2baNvvT2LnSQGlVx%2fDv53XIGlAKxk%3d&risl=&pid=ImgRaw&r=1" group-title="FAMILIAR",La Leyenda de la Bruja de Navidad: El Origen (2021)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/268.mp4
+#EXTINF:-1 tvg-name="Minions y sus amigos: Volumen 2 (2022)" tvg-logo="http://108.175.10.242:80/images/b929a22510c2fe57bf4d11d098769cd3.jpg" group-title="ANIME",Minions y sus amigos: Volumen 2 (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/269.mp4
+#EXTINF:-1 tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://th.bing.com/th/id/OIP.YOMRsJUGXvrc_AN0GJjQ4gHaJ4?pid=ImgDet&rs=1" group-title="ACCION",Enola Holmes 2 (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/270.mp4
+#EXTINF:-1 tvg-name="MexZombies (2022)" tvg-logo="https://th.bing.com/th/id/OIP.UkNtuDFkGBi1yq28TEXu-AHaLH?pid=ImgDet&rs=1" group-title="TERROR",MexZombies (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/271.mp4
+#EXTINF:-1 tvg-name="El ángel de la muerte (2022)" tvg-logo="http://108.175.10.242:80/images/b8e98f35f0c5eedefcb44ac8d676965a.jpg" group-title="DRAMA",El ángel de la muerte (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/272.mp4
+#EXTINF:-1 tvg-name="Nop (2022)" tvg-logo="http://108.175.10.242:80/images/2569b8483fb69e828a9f246bb4bd41ca.jpg" group-title="TERROR",Nop (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/273.mp4
+#EXTINF:-1 tvg-name="Bárbaro (2022)" tvg-logo="https://th.bing.com/th/id/OIP.gALtjRs1PIjgi0Zw9HTUcwHaEJ?pid=ImgDet&rs=1" group-title="DRAMA",Bárbaro (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/274.mp4
+#EXTINF:-1 tvg-name="El exorcismo de mi mejor amiga (2022)" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/my-best-friend-s-exorcism-libro-pelicula-1542790084.jpg?crop=1.00xw:0.376xh;0,0.0844xh&resize=480:*" group-title="TERROR",El exorcismo de mi mejor amiga (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/275.mp4
+#EXTINF:-1 tvg-name="Abracadabra 2 (2022)" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A83F930507B943EA29755129685C936546A09002572EDC64EC04D2D7B836432F/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="FANTASIA",Abracadabra 2 (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/276.mp4
+#EXTINF:-1 tvg-name="El cuartel secreto (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/gRAhc4XLDJji1tOKcVtKcOBV3qY.jpg" group-title="DRAMA",El cuartel secreto (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/277.mp4
+#EXTINF:-1 tvg-name="La máquina infernal (2022)" tvg-logo="https://th.bing.com/th/id/R.67f11cf4af829ed7025d0c0caf9ef08b?rik=zdp8sPAGc5Kt4Q&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f7VuQopunJnHKI1xejbdRUyDbP0S.jpg&ehk=00pXuhlHPUnQYaGXoBzjg3gTIvWC3MQID%2bmRlKrQTWc%3d&risl=&pid=ImgRaw&r=0" group-title="DRAMA",La máquina infernal (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/278.mp4
+#EXTINF:-1 tvg-name="Tren Bala (2022)" tvg-logo="https://th.bing.com/th/id/R.4b63b7325aeb438f0cfd518c77d0ddad?rik=zBg7iBMwZcVLcA&pid=ImgRaw&r=0" group-title="ACCION",Tren Bala (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/279.mp4
+#EXTINF:-1 tvg-name="Los Minions y sus amigos Volumen 1 (2022)" tvg-logo="https://th.bing.com/th/id/OIP.uFlslLs0kofTTDWIQnK8swAAAA?pid=ImgDet&rs=1" group-title="ANIME",Los Minions y sus amigos Volumen 1 (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/280.mp4
+#EXTINF:-1 tvg-name="Pokémon: Las crónicas de Arceus (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/wfToCZbH3pCLzAqIKu0RBL3v1ek.jpg" group-title="ANIME",Pokémon: Las crónicas de Arceus (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/281.mp4
+#EXTINF:-1 tvg-name="Los Monsters (2022)" tvg-logo="http://108.175.10.242:80/images/2e3205adea511d815f0b014e52ff0b61.jpg" group-title="FAMILIAR",Los Monsters (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/282.mp4
+#EXTINF:-1 tvg-name="La Hurfana: El Origen (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/nODIZa8p2Y31CKlp5JS0LFRmeXF.jpg" group-title="TERROR",La Hurfana: El Origen (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/283.mp4
+#EXTINF:-1 tvg-name="La Bestia (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/lGIkv9fQ3i7yVcJXDvG0Vry00LI.jpg" group-title="ACCION",La Bestia (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/284.mp4
+#EXTINF:-1 tvg-name="Presencias (2022)" tvg-logo="http://108.175.10.242:80/images/bb585e777e74e73aea209e795521a759.jpg" group-title="TERROR",Presencias (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/285.mp4
+#EXTINF:-1 tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="https://th.bing.com/th/id/OIP.qgwo1Ypkav_agL3fEHfEWQHaKf?pid=ImgDet&rs=1" group-title="ANIME",Dragon Ball Super: Super Hero (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/286.mp4
+#EXTINF:-1 tvg-name="Cazando a Ava Bravo (2022)" tvg-logo="http://108.175.10.242:80/images/f9953b91f42340d1c84ea12b265790ef.jpg" group-title="ACCION",Cazando a Ava Bravo (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/287.mp4
+#EXTINF:-1 tvg-name="Tiempo para mí (2022)" tvg-logo="https://th.bing.com/th/id/R.575f8a02216d0668f16a0e2cda6e09d4?rik=dM4J43lrDoJJjw&pid=ImgRaw&r=1" group-title="FAMILIAR",Tiempo para mí (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/288.mp4
+#EXTINF:-1 tvg-name="First Love Descubriendo el Amor (2022)" tvg-logo="https://th.bing.com/th/id/R.2d71c310f48c77478362ff46c9c0cea9?rik=y7Rqgr0vo0xf8A&pid=ImgRaw&r=1" group-title="FAMILIAR",First Love Descubriendo el Amor (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/289.mp4
+#EXTINF:-1 tvg-name="Gemelo Siniestro (2022)" tvg-logo="http://108.175.10.242:80/images/7d3710a3ad1a2568211c330948bcbd8f.jpg" group-title="TERROR",Gemelo Siniestro (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/290.mp4
+#EXTINF:-1 tvg-name="Francotirador: misión secreta (2022)" tvg-logo="https://th.bing.com/th/id/R.40824bd30a3a4f76027adbc3b95c96d6?rik=wpBdalWhwJD7UQ&pid=ImgRaw&r=0" group-title="ACCION",Francotirador: misión secreta (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/291.mp4
+#EXTINF:-1 tvg-name="Constantine - The House of Mystery (2022)" tvg-logo="https://th.bing.com/th/id/OIP.6-ePpvTBk0me3pHUQKBI6QHaLK?pid=ImgDet&rs=1" group-title="ANIME",Constantine - The House of Mystery (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/292.mp4
+#EXTINF:-1 tvg-name="365 días más (2022)" tvg-logo="https://th.bing.com/th/id/OIP.0DiYY87EFkHFSvRCB63NCgHaEK?pid=ImgDet&rs=1" group-title="DRAMA",365 días más (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/293.mp4
+#EXTINF:-1 tvg-name="Turno de día (2022) NF" tvg-logo="http://108.175.10.242:80/images/b99c43cd27fd46f2cbc5d36cf04f7221.jpg" group-title="TERROR",Turno de día (2022) NF
+http://108.175.10.242:80/movie/Prueba123/Prueba123/294.mp4
+#EXTINF:-1 tvg-name="Invasión en la oficina (2022) NF" tvg-logo="https://th.bing.com/th/id/OIP.8bSB2Qs6r3Z_MDtymXLXQgHaKY?pid=ImgDet&rs=1" group-title="ACCION",Invasión en la oficina (2022) NF
+http://108.175.10.242:80/movie/Prueba123/Prueba123/295.mp4
+#EXTINF:-1 tvg-name="El perro samurái: La leyenda de Kakamucho (2022)" tvg-logo="http://108.175.10.242:80/images/71e4f7c7aecc53afb347d68383a29513.jpg" group-title="ANIME",El perro samurái: La leyenda de Kakamucho (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/296.mp4
+#EXTINF:-1 tvg-name="Hasta que mueras (2021)" tvg-logo="https://th.bing.com/th/id/OIP.6SZh5qZ1UFaecdhIrrfu_wHaLc?pid=ImgDet&rs=1" group-title="TERROR",Hasta que mueras (2021)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/297.mp4
+#EXTINF:-1 tvg-name="Elvis (2022)" tvg-logo="https://th.bing.com/th/id/OIP.TtxFErQeAZUbX60q3YOmSAHaEK?pid=ImgDet&rs=1" group-title="FAMILIAR",Elvis (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/298.mp4
+#EXTINF:-1 tvg-name="EL PERFUME HISTORIA DE UN ASESINO" tvg-logo="http://cdn.shopify.com/s/files/1/0584/0889/4653/products/el-perfume425.png?v=1643757525" group-title="DRAMA",EL PERFUME HISTORIA DE UN ASESINO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/312.mp4
+#EXTINF:-1 tvg-name="PINOCHO 2022" tvg-logo="http://108.175.10.242:80/images/aed55a2f9d7053758b331fbcea46a17f.jpg" group-title="FAMILIAR",PINOCHO 2022
+http://108.175.10.242:80/movie/Prueba123/Prueba123/313.mp4
+#EXTINF:-1 tvg-name="LA BESTIA" tvg-logo="https://www.themoviedb.org/t/p/original/lGIkv9fQ3i7yVcJXDvG0Vry00LI.jpg" group-title="ACCION",LA BESTIA
+http://108.175.10.242:80/movie/Prueba123/Prueba123/314.mp4
+#EXTINF:-1 tvg-name="First Love Descubriendo el Amor (2022)" tvg-logo="http://108.175.10.242:80/images/cc80691d6d087c7853530e653b71d99b.jpeg" group-title="FAMILIAR",First Love Descubriendo el Amor (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/315.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars (2022)" tvg-logo="http://108.175.10.242:80/images/1ed6e555209f7dba7e736ce77ca39552.png" group-title="ANIME",LEGO Star Wars (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/316.mp4
+#EXTINF:-1 tvg-name="X 2022" tvg-logo="http://108.175.10.242:80/images/633d83f3023dbcf6dc84e5faab5e7562.png" group-title="+ 18",X 2022
+http://108.175.10.242:80/movie/Prueba123/Prueba123/317.mp4
+#EXTINF:-1 tvg-name="Jurassic World 3: Dominion (2022)" tvg-logo="https://cdn.shopify.com/s/files/1/0584/3025/9368/products/5000300689JurassicWorldDominionUKDVDRetailSleeve_2PA_1400x.png?v=1660745773" group-title="FAMILIAR",Jurassic World 3: Dominion (2022)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/318.mp4
+#EXTINF:-1 tvg-name="GATO CON BOTAS EL ULTIMO DESEO" tvg-logo="https://th.bing.com/th/id/OIP.ASK_H-RLSsIYCZTgy1_mGgAAAA?pid=ImgDet&rs=1" group-title="ANIME",GATO CON BOTAS EL ULTIMO DESEO
+http://108.175.10.242:80/movie/Prueba123/Prueba123/322.mp4
+#EXTINF:-1 tvg-name="FREDD GUY 2021" tvg-logo="https://th.bing.com/th/id/R.cfe57abfdbb2a34018fb24ef766f90a6?rik=8fp%2bWZNXGJLrKA&pid=ImgRaw&r=1" group-title="FAMILIAR",FREDD GUY 2021
+http://108.175.10.242:80/movie/Prueba123/Prueba123/323.mp4
+#EXTINF:-1 tvg-name="Ant-Man and The Wasp: Quantumania (2023)" tvg-logo="http://108.175.10.242:80/images/83fac8ddecc0f1ce5019c65b42bfa335.jpg" group-title="FAMILIAR",Ant-Man and The Wasp: Quantumania (2023)
+http://108.175.10.242:80/movie/Prueba123/Prueba123/324.mp4
+#EXTINF:-1 tvg-name="MARIO BROSS 2023" tvg-logo="https://th.bing.com/th/id/OIP.NRfQztHKk7GJr6vPt5Q5DQHaG9?w=209&h=197&c=7&r=0&o=5&pid=1.7" group-title="ANIME",MARIO BROSS 2023
+http://108.175.10.242:80/movie/Prueba123/Prueba123/325.mp4
+#EXTINF:-1 tvg-name="EL EXORCISTA DEL PAPA" tvg-logo="http://108.175.10.242:80/images/bd6302b7d2bbdeea202a0d8754454142.jpg" group-title="TERROR",EL EXORCISTA DEL PAPA
+http://108.175.10.242:80/movie/Prueba123/Prueba123/326.mp4
+#EXTINF:-1 tvg-name="Mario 2023" tvg-logo="http://108.175.10.242:80/images/bd6302b7d2bbdeea202a0d8754454142.jpg" group-title="ANIME",Mario 2023
+http://108.175.10.242:80/movie/Prueba123/Prueba123/327.mp4
+#EXTINF:-1 tvg-name="Amor inquebrantable" tvg-logo="http://108.175.10.242:80/images/bd6302b7d2bbdeea202a0d8754454142.jpg" group-title="DRAMA",Amor inquebrantable
+http://108.175.10.242:80/movie/Prueba123/Prueba123/328.mp4
+#EXTINF:-1 tvg-name="Antes de ti" tvg-logo="http://108.175.10.242:80/images/bd6302b7d2bbdeea202a0d8754454142.jpg" group-title="FAMILIAR",Antes de ti
+http://108.175.10.242:80/movie/Prueba123/Prueba123/329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COPE Lugo" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="VARIADO",COPE Lugo
+http://108.175.10.242:80/Prueba123/Prueba123/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Onda Cero Vigo" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="VARIADO",Onda Cero Vigo
+http://108.175.10.242:80/Prueba123/Prueba123/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Voz" tvg-logo="https://graph.facebook.com/radiovoz/picture?width=200&height=200" group-title="VARIADO",Radio Voz
+http://108.175.10.242:80/Prueba123/Prueba123/185.m3u8
+#EXTINF:-1 tvg-name="FUTURAMA CAP1 S01E02" tvg-logo="http://108.175.10.242:80/images/e42f006c6e1d5493ac9d213a13c8e783.png" group-title="ACCION",FUTURAMA CAP1 S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/44.mkv
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E01" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="FAMILIA",INSPECTOR GADGET S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/49.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E01" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="ANIME",INSPECTOR GADGET S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/49.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E02" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="FAMILIA",INSPECTOR GADGET S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/50.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E02" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="ANIME",INSPECTOR GADGET S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/50.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E03" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="FAMILIA",INSPECTOR GADGET S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/51.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E03" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="ANIME",INSPECTOR GADGET S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/51.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E04" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="FAMILIA",INSPECTOR GADGET S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/52.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E04" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="ANIME",INSPECTOR GADGET S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/52.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E05" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="FAMILIA",INSPECTOR GADGET S01E05
+http://108.175.10.242:80/series/Prueba123/Prueba123/53.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E05" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="ANIME",INSPECTOR GADGET S01E05
+http://108.175.10.242:80/series/Prueba123/Prueba123/53.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E06" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="FAMILIA",INSPECTOR GADGET S01E06
+http://108.175.10.242:80/series/Prueba123/Prueba123/54.mp4
+#EXTINF:-1 tvg-name="INSPECTOR GADGET S01E06" tvg-logo="http://108.175.10.242:80/images/a4e8067f6f1f6f273779adf4fac3b47e.jpg" group-title="ANIME",INSPECTOR GADGET S01E06
+http://108.175.10.242:80/series/Prueba123/Prueba123/54.mp4
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E01" tvg-logo="https://th.bing.com/th/id/R.9eb24a7f1ace703083237647919c10b3?rik=xiOHvkctROGdyw&pid=ImgRaw&r=0" group-title="NETFLIX",KENGAN ASHURA S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/140.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E01" tvg-logo="https://th.bing.com/th/id/R.9eb24a7f1ace703083237647919c10b3?rik=xiOHvkctROGdyw&pid=ImgRaw&r=0" group-title="ACCION",KENGAN ASHURA S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/140.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E01" tvg-logo="https://th.bing.com/th/id/R.9eb24a7f1ace703083237647919c10b3?rik=xiOHvkctROGdyw&pid=ImgRaw&r=0" group-title="ANIME",KENGAN ASHURA S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/140.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E02" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/141.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E02" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/141.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E02" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/141.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E03" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/142.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E03" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/142.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E03" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/142.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E04" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/143.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E04" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/143.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E04" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/143.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E05" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E05
+http://108.175.10.242:80/series/Prueba123/Prueba123/144.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E05" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E05
+http://108.175.10.242:80/series/Prueba123/Prueba123/144.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E05" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E05
+http://108.175.10.242:80/series/Prueba123/Prueba123/144.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E06" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E06
+http://108.175.10.242:80/series/Prueba123/Prueba123/145.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E06" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E06
+http://108.175.10.242:80/series/Prueba123/Prueba123/145.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E06" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E06
+http://108.175.10.242:80/series/Prueba123/Prueba123/145.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E07" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E07
+http://108.175.10.242:80/series/Prueba123/Prueba123/146.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E07" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E07
+http://108.175.10.242:80/series/Prueba123/Prueba123/146.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E07" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E07
+http://108.175.10.242:80/series/Prueba123/Prueba123/146.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E08" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E08
+http://108.175.10.242:80/series/Prueba123/Prueba123/147.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E08" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E08
+http://108.175.10.242:80/series/Prueba123/Prueba123/147.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E08" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E08
+http://108.175.10.242:80/series/Prueba123/Prueba123/147.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E09" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E09
+http://108.175.10.242:80/series/Prueba123/Prueba123/148.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E09" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E09
+http://108.175.10.242:80/series/Prueba123/Prueba123/148.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E09" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E09
+http://108.175.10.242:80/series/Prueba123/Prueba123/148.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E10" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E10
+http://108.175.10.242:80/series/Prueba123/Prueba123/149.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E10" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E10
+http://108.175.10.242:80/series/Prueba123/Prueba123/149.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E10" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E10
+http://108.175.10.242:80/series/Prueba123/Prueba123/149.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E11" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E11
+http://108.175.10.242:80/series/Prueba123/Prueba123/150.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E11" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E11
+http://108.175.10.242:80/series/Prueba123/Prueba123/150.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E11" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E11
+http://108.175.10.242:80/series/Prueba123/Prueba123/150.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E12" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="NETFLIX",KENGAN ASHURA S01E12
+http://108.175.10.242:80/series/Prueba123/Prueba123/151.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E12" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ACCION",KENGAN ASHURA S01E12
+http://108.175.10.242:80/series/Prueba123/Prueba123/151.mkv
+#EXTINF:-1 tvg-name="KENGAN ASHURA S01E12" tvg-logo="https://www.nautiljon.com/images/manga/00/84/kengan_ashura_6748.jpg?1581952420" group-title="ANIME",KENGAN ASHURA S01E12
+http://108.175.10.242:80/series/Prueba123/Prueba123/151.mkv
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E01" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="FAMILIA",LOS SIMPSONS S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/61.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E01" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="ANIME",LOS SIMPSONS S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/61.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E02" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="FAMILIA",LOS SIMPSONS S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/62.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E02" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="ANIME",LOS SIMPSONS S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/62.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E03" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="FAMILIA",LOS SIMPSONS S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/63.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E03" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="ANIME",LOS SIMPSONS S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/63.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E04" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="FAMILIA",LOS SIMPSONS S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/64.mp4
+#EXTINF:-1 tvg-name="LOS SIMPSONS S01E04" tvg-logo="http://108.175.10.242:80/images/3ee9e11b84fdcf931086401e192dd342.jpg" group-title="ANIME",LOS SIMPSONS S01E04
+http://108.175.10.242:80/series/Prueba123/Prueba123/64.mp4
+#EXTINF:-1 tvg-name="PADRE DE FAMILIA S01E01" tvg-logo="http://108.175.10.242:80/images/29ede74f90d275e1fd609ed20782e28f.png" group-title="DRAMA",PADRE DE FAMILIA S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/45.mp4
+#EXTINF:-1 tvg-name="PADRE DE FAMILIA S01E03" tvg-logo="http://108.175.10.242:80/images/7dfcf57896587b2ea6957716008a162b.jpg" group-title="DRAMA",PADRE DE FAMILIA S01E03
+http://108.175.10.242:80/series/Prueba123/Prueba123/46.mp4
+#EXTINF:-1 tvg-name="SHE-HULK S01E01" tvg-logo="http://108.175.10.242:80/images/7284f0e872a7872943f9754332ff58b6.jpg" group-title="ACCION",SHE-HULK S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/60.mp4
+#EXTINF:-1 tvg-name="SHE-HULK S01E01" tvg-logo="http://108.175.10.242:80/images/7284f0e872a7872943f9754332ff58b6.jpg" group-title="FAMILIA",SHE-HULK S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/60.mp4
+#EXTINF:-1 tvg-name="TERROR EN LO PROFUNDO S01E01" tvg-logo="http://108.175.10.242:80/images/6f9c4f9ff300e623fa56b62f7f3c7b9a.jpeg" group-title="TERROR",TERROR EN LO PROFUNDO S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/47.mp4
+#EXTINF:-1 tvg-name="VECINOS S01E01" tvg-logo="http://108.175.10.242:80/images/3c429e267bf3561df405030b4df7590a.png" group-title="FAMILIA",VECINOS S01E01
+http://108.175.10.242:80/series/Prueba123/Prueba123/55.mp4
+#EXTINF:-1 tvg-name="VECINOS S01E02" tvg-logo="http://108.175.10.242:80/images/3c429e267bf3561df405030b4df7590a.png" group-title="FAMILIA",VECINOS S01E02
+http://108.175.10.242:80/series/Prueba123/Prueba123/56.mp4
