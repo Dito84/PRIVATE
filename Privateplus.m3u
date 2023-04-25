@@ -27,7 +27,6 @@ http://200.41.79.165:8000/play/a003/index.m3u8
 http://200.41.79.165:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/4412bdd6572f4682afbc535d7cbd18ef.jpg" group-title="DOCUMENTALES", HISTORY CHANNEL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://200.41.79.165:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/36f8ff2832b44118abf769aaf0e01c3f.jpg" group-title="INFANTILES - ANIME", CARTOON NETWORK
