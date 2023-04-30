@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="CINE Y SERIES", AXN
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="CINE Y SERIES" audio-track="spa", AXN
 http://200.41.79.165:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="DOCUMENTALES", ANIMAL PLANET
@@ -78,7 +78,7 @@ http://200.41.79.165:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ddaemoctqneeney/CINECANAL%20HD.png?dl=1" group-title="CINE Y SERIES", CINECANAL HD
 http://190.83.116.230:9010/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xjiw96kn2aqo0om/CineMax.png?dl=1" group-title="CINE Y SERIES", CINEMAX
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xjiw96kn2aqo0om/CineMax.png?dl=1" group-title="CINE Y SERIES" audio-track="spa", CINEMAX
 http://190.83.116.230:9010/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://108.175.10.242:80/images/790c88b07394fa45c8c2951dee06f1a4.jpg" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
