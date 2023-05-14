@@ -36,8 +36,6 @@ http://200.41.79.165:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvWywUZ.png" group-title="CINE Y SERIES", CITY TV
 http://200.41.79.165:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="PELI - ACCION", TETRIS 2023
-https://drive.google.com/uc?export=download&confirm=t&id=16saPqRQM6oZuKHpwB9qR-A9BjlZbIwXR&name=Tetris_2023
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/38i00x9ksdpipoy/BOLIVIA%20TV.jpg?dl=1" group-title="BOLIVIA", Bolivia TV
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w459628693.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjowNTozMyBQTSZoYXNoX3ZhbHVlPThpcENzZEFBaXBKejVIU2RMZkNEb1E9PSZ2YWxpZG1pbnV0ZXM9MjUmaWQ9
