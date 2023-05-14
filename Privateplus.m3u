@@ -46,7 +46,7 @@ https://5f2c1b0d880e5.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", BOLIVISION
 https://d3eyooyk041snj.cloudfront.net:443/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/n9v3qhot9pgbrzc/CADENA%20A.jpg?dl=1" group-title="BOLIVIA", Cadena A
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/n9v3qhot9pgbrzc/CADENA%20A.jpg?dl=1" group-title="BOLIVIA", CADENA A
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://108.175.10.242:80/images/f50af5e9c4ecfd1100ab71eabe0bc571.png" group-title="BOLIVIA", MegaTV (Yacuiba)
