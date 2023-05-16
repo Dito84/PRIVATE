@@ -44,7 +44,7 @@ https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w459
 https://5f2c1b0d880e5.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", BOLIVISION
-https://d3eyooyk041snj.cloudfront.net:443/hls/live_480p30.m3u8
+https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/n9v3qhot9pgbrzc/CADENA%20A.jpg?dl=1" group-title="BOLIVIA", CADENA A
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
