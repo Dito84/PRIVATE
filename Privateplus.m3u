@@ -116,12 +116,15 @@ http://flash.shortgod.com/kickplus/tv2.php?id=141.ts
 http://flash.shortgod.com/kickplus/tv2.php?id=121.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CUATRO
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://flash.shortgod.com/kickplus/tv2.php?id=131.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CINCO
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://flash.shortgod.com/kickplus/tv2.php?id=104.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE SEIS
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://flash.shortgod.com/kickplus/tv2.php?id=132.ts
 
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Don-Gato-y-su-pandilla.png" group-title="INFANTILES - ANIME", DON GATO Y SU PANDILLA
