@@ -129,3 +129,9 @@ http://flash.shortgod.com/kickplus/tv2.php?id=149.ts
 
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Don-Gato-y-su-pandilla.png" group-title="INFANTILES - ANIME", DON GATO Y SU PANDILLA
 http://flash.shortgod.com/kickplus/tv2.php?id=116.ts
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Comedia
+http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fe56ef40-275f-11ed-b4a2-577307b16328&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d169515-ad44-4a9f-a9fb-3383a5a61e36&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Z8-bYJZsIL0EqKyOJcElNNNSau2bQ6LA/view?usp=drive_link" group-title="CANALES 24/7", EL JUEGO DEL CALAMAR
+http://flash.shortgod.com/kickplus/tv4.php?id=348&f=.m3u8
