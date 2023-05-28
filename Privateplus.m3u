@@ -135,3 +135,11 @@ http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d9
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Z8-bYJZsIL0EqKyOJcElNNNSau2bQ6LA/view?usp=drive_link" group-title="CANALES 24/7", EL JUEGO DEL CALAMAR
 http://flash.shortgod.com/kickplus/tv4.php?id=348&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/368fdb8d6b0fa176040e609635e216110ed6b167/24-7.png" group-title="CANALES 24/7", EL JUEGO DEL CALAMAR
+#EXTVLCOPT:http-user-agent=ShortGod.com
+http://flash.shortgod.com/kickplus/tv4.php?id=348&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/368fdb8d6b0fa176040e609635e216110ed6b167/24-7.png" group-title="CANALES 24/7", PIRATAS DEL CARIBE
+#EXTVLCOPT:http-user-agent=ShortGod.com
+http://flash.shortgod.com/kickplus/tv4.php?id=359&f=.m3u8
