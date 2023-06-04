@@ -86,84 +86,84 @@ http://190.83.116.230:9010/play/a08z/index.m3u8
 http://190.83.116.230:9010/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/aquaman_tv_series-278627916-msmall.jpg" group-title="CANALES 24/7", Aquaman Classic 1967-1970
-http://flash.shortgod.com/cacao2023/tv2.php?id=143.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=143.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE UNO
-http://flash.shortgod.com/cacao2023/tv2.php?id=99.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=99.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE DOS
-http://flash.shortgod.com/cacao2023/tv2.php?id=102.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=102.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE TRES
-http://flash.shortgod.com/cacao2023/tv2.php?id=103.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=103.ts
 
 #EXTINF:-1 tvg-logo="https://colormake.com/wp-content/uploads/2014/03/DB_z.png" group-title="INFANTILES - ANIME", DRAGON BALL Z
-http://flash.shortgod.com/cacao2023/tv2.php?id=106.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=106.ts
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Looney-Tunes-Logo-1996.png" group-title="INFANTILES - ANIME", LOONEY TOONS
-http://flash.shortgod.com/cacao2023/tv2.php?id=107.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=107.ts
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/59300e6f3919fe0ee3614dec.png" group-title="INFANTILES - ANIME", CORRE CAMINOS
-http://flash.shortgod.com/cacao2023/tv2.php?id=135.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=135.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6a/e3/e0/6ae3e0233ae2613034219ab8f4c654dd.jpg" group-title="INFANTILES - ANIME", GALLO CLAUDIO
-http://flash.shortgod.com/cacao2023/tv2.php?id=139.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=139.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jRyWpMWNXm9AGulWV_uvRNsu-Lj7JS5n2A&usqp=CAU" group-title="INFANTILES - ANIME", ASTRO BOY
-http://flash.shortgod.com/cacao2023/tv2.php?id=141.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=141.ts
 
 #EXTINF:-1 tvg-logo="https://wikicharlie-cdn-img.b-cdn.net/5/5a/Canuto_y_Canito.jpg" group-title="INFANTILES - ANIME", CANUTO & CANITO
-http://flash.shortgod.com/cacao2023/tv2.php?id=121.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=121.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CUATRO
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://flash.shortgod.com/cacao2023/tv2.php?id=131.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=131.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CINCO
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://flash.shortgod.com/cacao2023/tv2.php?id=104.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=104.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE SEIS
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://flash.shortgod.com/cacao2023/tv2.php?id=149.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=149.ts
 
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/12/Don-Gato-y-su-pandilla.png" group-title="INFANTILES - ANIME", DON GATO Y SU PANDILLA
-http://flash.shortgod.com/cacao2023/tv2.php?id=116.ts
+http://flash.shortgod.com/nodawin/tv2.php?id=116.ts
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Comedia
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fe56ef40-275f-11ed-b4a2-577307b16328&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d169515-ad44-4a9f-a9fb-3383a5a61e36&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1Z8-bYJZsIL0EqKyOJcElNNNSau2bQ6LA/view?usp=drive_link" group-title="CANALES 24/7", EL JUEGO DEL CALAMAR
-http://flash.shortgod.com/cacao2023/tv4.php?id=348&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=348&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/main/24-7.png" group-title="CANALES 24/7", EL JUEGO DEL CALAMAR
 #EXTVLCOPT:http-user-agent=ShortGod.com
-http://flash.shortgod.com/cacao2023/tv4.php?id=348&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=348&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/main/24-7.png" group-title="CANALES 24/7", PIRATAS DE L CARIBE
 #EXTVLCOPT:http-user-agent=ShortGod.com
-http://flash.shortgod.com/cacao2023/tv4.php?id=359&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=359&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="DEPORTES", TYC SPORT
-http://flash.shortgod.com/cacao2023/tv4.php?id=196&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=196&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="DEPORTES", DEPORTE MOVISTAR
-http://flash.shortgod.com/cacao2023/tv4.php?id=203&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=203&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="DEPORTES", ESPN
-http://flash.shortgod.com/cacao2023/tv4.php?id=204&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=204&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", FOX SPORT
-http://flash.shortgod.com/cacao2023/tv4.php?id=207&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=207&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", DTV
-http://flash.shortgod.com/cacao2023/tv4.php?id=3925&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=3925&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", GOL TV
-http://flash.shortgod.com/cacao2023/tv4.php?id=3936&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=3936&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="DEPORTES", WIN SPORT
-http://flash.shortgod.com/cacao2023/tv4.php?id=4309&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=4309&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/main/24-7.png" group-title="CANALES 24/7", LOKI
-http://flash.shortgod.com/cacao2023/tv4.php?id=366&f=.m3u8
+http://flash.shortgod.com/nodawin/tv4.php?id=366&f=.m3u8
