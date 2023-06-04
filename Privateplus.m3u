@@ -12,7 +12,7 @@ http://200.41.79.165:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/ATB.png" group-title="BOLIVIA", ATB
 https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsETj0jhowGUh6DjxIcE4naFs8c6UUwvvph20EorBtTg)/dm/3/x84eirw/s/live-2.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/99e25e18cf02468d9800bcf8a508e48d.jpg" group-title="CHILE", CANAL RCN
+#EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/99e25e18cf02468d9800bcf8a508e48d.jpg" group-title="CHILE", CANAL RCN1
 http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/29fd481d125b491bb9b5e33ca7be6e96.jpg" group-title="CHILE", CANAL UNO
