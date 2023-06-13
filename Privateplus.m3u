@@ -167,3 +167,574 @@ http://flash.shortgod.com/nodawin/tv4.php?id=4309&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/main/24-7.png" group-title="CANALES 24/7", LOKI
 http://flash.shortgod.com/nodawin/tv4.php?id=366&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r0.png" group-title="TV_CABLE", (ONLINE) 11 - Repretel
+http://181.189.243.254:8000/play/a0r0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oh.png" group-title="TV_CABLE", (ONLINE) 13-Sinart
+http://181.189.243.254:8000/play/a0oh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s2.png" group-title="TV_CABLE", (ONLINE) 4 - Repretel
+http://181.189.243.254:8000/play/a0s2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oi.png" group-title="TV_CABLE", (ONLINE) 42 - Extra TV 42
+http://181.189.243.254:8000/play/a0oi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qy.png" group-title="TV_CABLE", (ONLINE) 6 - Repretel
+http://181.189.243.254:8000/play/a0qy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png" group-title="TV_CABLE", (ONLINE) A&E
+http://181.189.243.254:8000/play/a0s8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png" group-title="TV_CABLE", (ONLINE) A&E HD
+http://181.189.243.254:8000/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pr.png" group-title="TV_CABLE", (ONLINE) AMC
+http://181.189.243.254:8000/play/a0pr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q8.png" group-title="TV_CABLE", (ONLINE) AMC HD
+http://181.189.243.254:8000/play/a0q8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="TV_CABLE", (ONLINE) AXN
+http://181.189.243.254:8000/play/a0pp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qe.png" group-title="TV_CABLE", (ONLINE) AZ click HD
+http://181.189.243.254:8000/play/a0qe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sb.png" group-title="TV_CABLE", (ONLINE) Animal Planet
+http://181.189.243.254:8000/play/a0sb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q4.png" group-title="TV_CABLE", (ONLINE) Animal Planet HD
+http://181.189.243.254:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nv.png" group-title="TV_CABLE", (ONLINE) Antena 3
+http://181.189.243.254:8000/play/a0nv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p2.png" group-title="TV_CABLE", (ONLINE) Antena 7- RD
+http://181.189.243.254:8000/play/a0p2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o1.png" group-title="TV_CABLE", (ONLINE) Atres Series
+http://181.189.243.254:8000/play/a0o1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pg.png" group-title="TV_CABLE", (ONLINE) Azcorazon
+http://181.189.243.254:8000/play/a0pg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s4.png" group-title="TV_CABLE", (ONLINE) Azmundo
+http://181.189.243.254:8000/play/a0s4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ub.png" group-title="TV_CABLE", (OFFLINE) Azteca Uno
+http://181.189.243.254:8000/play/a0ub/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pt.png" group-title="TV_CABLE", (ONLINE) BBC World
+http://181.189.243.254:8000/play/a0pt/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r3.png" group-title="TV_CABLE", (ONLINE) Baby First
+http://181.189.243.254:8000/play/a0r3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ns.png" group-title="TV_CABLE", (ONLINE) Baby TV
+http://181.189.243.254:8000/play/a0ns/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ua.png" group-title="TV_CABLE", (OFFLINE) CANAL 11HN HD
+http://181.189.243.254:8000/play/a0ua/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qt.png" group-title="TV_CABLE", (ONLINE) CANAL 13 - NI
+http://181.189.243.254:8000/play/a0qt/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u7.png" group-title="TV_CABLE", (OFFLINE) CANAL 5 HN HD BACKUP
+http://181.189.243.254:8000/play/a0u7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u9.png" group-title="TV_CABLE", (OFFLINE) CANAL 5 MX HD
+http://181.189.243.254:8000/play/a0u9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u3.png" group-title="TV_CABLE", (OFFLINE) CANAL DE LAS ESTRELLAS HD
+http://181.189.243.254:8000/play/a0u3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0op.png" group-title="TV_CABLE", (ONLINE) CARTOON NT HD
+http://181.189.243.254:8000/play/a0op/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pc.png" group-title="TV_CABLE", (ONLINE) CCN
+http://181.189.243.254:8000/play/a0pc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qq.png" group-title="TV_CABLE", (ONLINE) CDN2- RD
+http://181.189.243.254:8000/play/a0qq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s1.png" group-title="TV_CABLE", (ONLINE) CDN37 - RD
+http://181.189.243.254:8000/play/a0s1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sl.png" group-title="TV_CABLE", (ONLINE) CINECANAL HD
+http://181.189.243.254:8000/play/a0sl/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o7.png" group-title="TV_CABLE", (ONLINE) CNN Internacional
+http://181.189.243.254:8000/play/a0o7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ps.png" group-title="TV_CABLE", (ONLINE) CNNE
+http://181.189.243.254:8000/play/a0ps/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o0.png" group-title="TV_CABLE", (ONLINE) Canal 10 - ESA
+http://181.189.243.254:8000/play/a0o0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o8.png" group-title="TV_CABLE", (ONLINE) Canal 10 HD - ESA
+http://181.189.243.254:8000/play/a0o8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qj.png" group-title="TV_CABLE", (ONLINE) Canal 11 - GUA
+http://181.189.243.254:8000/play/a0qj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p0.png" group-title="TV_CABLE", (OFFLINE) Canal 11 - HON
+http://181.189.243.254:8000/play/a0p0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p5.png" group-title="TV_CABLE", (ONLINE) Canal 13 - PAN
+http://181.189.243.254:8000/play/a0p5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qi.png" group-title="TV_CABLE", (ONLINE) Canal 13-GUA
+http://181.189.243.254:8000/play/a0qi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qo.png" group-title="TV_CABLE", (ONLINE) Canal 14 - NIC
+http://181.189.243.254:8000/play/a0qo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r2.png" group-title="TV_CABLE", (ONLINE) Canal 19  ESA
+http://181.189.243.254:8000/play/a0r2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ru.png" group-title="TV_CABLE", (ONLINE) Canal 2 - ESA
+http://181.189.243.254:8000/play/a0ru/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rx.png" group-title="TV_CABLE", (ONLINE) Canal 2 - NIC
+http://181.189.243.254:8000/play/a0rx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p6.png" group-title="TV_CABLE", (ONLINE) Canal 2 - PAN
+http://181.189.243.254:8000/play/a0p6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rs.png" group-title="TV_CABLE", (ONLINE) Canal 3 - GUA
+http://181.189.243.254:8000/play/a0rs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u1.png" group-title="TV_CABLE", (OFFLINE) Canal 5 - HON
+http://181.189.243.254:8000/play/a0u1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u2.png" group-title="TV_CABLE", (ONLINE) Canal 5 HD
+http://181.189.243.254:8000/play/a0u2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qk.png" group-title="TV_CABLE", (ONLINE) Canal 6 - ESA
+http://181.189.243.254:8000/play/a0qk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qs.png" group-title="TV_CABLE", (ONLINE) Canal 6 - NI
+http://181.189.243.254:8000/play/a0qs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rr.png" group-title="TV_CABLE", (ONLINE) Canal 7 - GUA
+http://181.189.243.254:8000/play/a0rr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rp.png" group-title="TV_CABLE", (ONLINE) Canal Antigua - GUA
+http://181.189.243.254:8000/play/a0rp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rq.png" group-title="TV_CABLE", (ONLINE) Canal Azteca - GUA
+http://181.189.243.254:8000/play/a0rq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oy.png" group-title="TV_CABLE", (ONLINE) Canal Claro
+http://181.189.243.254:8000/play/a0oy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oo.png" group-title="TV_CABLE", (ONLINE) Canal Claro HD
+http://181.189.243.254:8000/play/a0oo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p8.png" group-title="TV_CABLE", (ONLINE) Cartoon Network
+http://181.189.243.254:8000/play/a0p8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pa.png" group-title="TV_CABLE", (ONLINE) Cartoonito
+http://181.189.243.254:8000/play/a0pa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0on.png" group-title="TV_CABLE", (ONLINE) Claro Sports  HD
+http://181.189.243.254:8000/play/a0on/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s0.png" group-title="TV_CABLE", (ONLINE) Color Vision 9 - RD
+http://181.189.243.254:8000/play/a0s0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0su.png" group-title="TV_CABLE", (ONLINE) Comedy Central HD
+http://181.189.243.254:8000/play/a0su/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ok.png" group-title="TV_CABLE", (ONLINE) DHE
+http://181.189.243.254:8000/play/a0ok/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qd.png" group-title="TV_CABLE", (ONLINE) DHE HD
+http://181.189.243.254:8000/play/a0qd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sr.png" group-title="TV_CABLE", (ONLINE) DISC THEATHER HD
+http://181.189.243.254:8000/play/a0sr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qp.png" group-title="TV_CABLE", (ONLINE) Digital 15 - RD
+http://181.189.243.254:8000/play/a0qp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sa.png" group-title="TV_CABLE", (ONLINE) Discovery Channel
+http://181.189.243.254:8000/play/a0sa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tb.png" group-title="TV_CABLE", (ONLINE) Discovery Channel HD
+http://181.189.243.254:8000/play/a0tb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tf.png" group-title="TV_CABLE", (ONLINE) Discovery ID HD
+http://181.189.243.254:8000/play/a0tf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ob.png" group-title="TV_CABLE", (ONLINE) Discovery Kids HD
+http://181.189.243.254:8000/play/a0ob/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ny.png" group-title="TV_CABLE", (ONLINE) Discovery Science
+http://181.189.243.254:8000/play/a0ny/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tc.png" group-title="TV_CABLE", (ONLINE) Discovery World HD
+http://181.189.243.254:8000/play/a0tc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pb.png" group-title="TV_CABLE", (ONLINE) Disney JR
+http://181.189.243.254:8000/play/a0pb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0uc.png" group-title="TV_CABLE", (OFFLINE) Distrito Comedia
+http://181.189.243.254:8000/play/a0uc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s7.png" group-title="TV_CABLE", (ONLINE) E!
+http://181.189.243.254:8000/play/a0s7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q5.png" group-title="TV_CABLE", (ONLINE) E! Entertairment HD
+http://181.189.243.254:8000/play/a0q5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0se.png" group-title="TV_CABLE", (ONLINE) ESPN
+http://181.189.243.254:8000/play/a0se/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0py.png" group-title="TV_CABLE", (ONLINE) ESPN  +
+http://181.189.243.254:8000/play/a0py/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sf.png" group-title="TV_CABLE", (ONLINE) ESPN 2
+http://181.189.243.254:8000/play/a0sf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t6.png" group-title="TV_CABLE", (ONLINE) ESPN 2 HD
+http://181.189.243.254:8000/play/a0t6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rb.png" group-title="TV_CABLE", (ONLINE) ESPN 3
+http://181.189.243.254:8000/play/a0rb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png" group-title="TV_CABLE", (ONLINE) ESPN 3 HD
+http://181.189.243.254:8000/play/a0t5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t4.png" group-title="TV_CABLE", (ONLINE) ESPN HD
+http://181.189.243.254:8000/play/a0t4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r6.png" group-title="TV_CABLE", (ONLINE) EURO Channel
+http://181.189.243.254:8000/play/a0r6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pw.png" group-title="TV_CABLE", (ONLINE) EWTN
+http://181.189.243.254:8000/play/a0pw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r8.png" group-title="TV_CABLE", (ONLINE) El Gourmet
+http://181.189.243.254:8000/play/a0r8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qb.png" group-title="TV_CABLE", (ONLINE) Europa HD
+http://181.189.243.254:8000/play/a0qb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tu.png" group-title="TV_CABLE", (ONLINE) Exa TV
+http://181.189.243.254:8000/play/a0tu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sg.png" group-title="TV_CABLE", (ONLINE) Exa TV
+http://181.189.243.254:8000/play/a0sg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sp.png" group-title="TV_CABLE", (ONLINE) FOX SPORTS 2 HD
+http://181.189.243.254:8000/play/a0sp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t7.png" group-title="TV_CABLE", (ONLINE) FOX SPORTS 3 HD
+http://181.189.243.254:8000/play/a0t7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rc.png" group-title="TV_CABLE", (ONLINE) FOX Sports 2
+http://181.189.243.254:8000/play/a0rc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t3.png" group-title="TV_CABLE", (ONLINE) FUTV HD CR
+http://181.189.243.254:8000/play/a0t3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r4.png" group-title="TV_CABLE", (ONLINE) FX
+http://181.189.243.254:8000/play/a0r4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qa.png" group-title="TV_CABLE", (ONLINE) FX HD
+http://181.189.243.254:8000/play/a0qa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oj.png" group-title="TV_CABLE", (ONLINE) Film & Arts
+http://181.189.243.254:8000/play/a0oj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q6.png" group-title="TV_CABLE", (ONLINE) Film & arts HD
+http://181.189.243.254:8000/play/a0q6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pm.png" group-title="TV_CABLE", (ONLINE) Fox Sport 3
+http://181.189.243.254:8000/play/a0pm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pu.png" group-title="TV_CABLE", (ONLINE) France24
+http://181.189.243.254:8000/play/a0pu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rh.png" group-title="TV_CABLE", (ONLINE) Golden
+http://181.189.243.254:8000/play/a0rh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0od.png" group-title="TV_CABLE", (ONLINE) Golden Premiere 2 HD
+http://181.189.243.254:8000/play/a0od/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oc.png" group-title="TV_CABLE", (ONLINE) Golden Premiere HD
+http://181.189.243.254:8000/play/a0oc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o3.png" group-title="TV_CABLE", (ONLINE) Golf Channel
+http://181.189.243.254:8000/play/a0o3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qg.png" group-title="TV_CABLE", (ONLINE) Golf Channel HD
+http://181.189.243.254:8000/play/a0qg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oz.png" group-title="TV_CABLE", (ONLINE) Guatevision - GUA
+http://181.189.243.254:8000/play/a0oz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r7.png" group-title="TV_CABLE", (ONLINE) H2
+http://181.189.243.254:8000/play/a0r7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ou.png" group-title="TV_CABLE", (ONLINE) HBO Family HD
+http://181.189.243.254:8000/play/a0ou/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0or.png" group-title="TV_CABLE", (ONLINE) HBO HD
+http://181.189.243.254:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ot.png" group-title="TV_CABLE", (ONLINE) HBO Plus HD
+http://181.189.243.254:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ov.png" group-title="TV_CABLE", (OFFLINE) HBO XTREME
+http://181.189.243.254:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0os.png" group-title="TV_CABLE", (OFFLINE) HBO2 HD
+http://181.189.243.254:8000/play/a0os/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p7.png" group-title="TV_CABLE", (OFFLINE) HCH- HON
+http://181.189.243.254:8000/play/a0p7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oh.png" group-title="TV_CABLE", (ONLINE) 13-Sinart
+http://181.189.243.254:8000/play/a0oh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s2.png" group-title="TV_CABLE", (ONLINE) 4 - Repretel
+http://181.189.243.254:8000/play/a0s2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oi.png" group-title="TV_CABLE", (ONLINE) 42 - Extra TV 42
+http://181.189.243.254:8000/play/a0oi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qy.png" group-title="TV_CABLE", (ONLINE) 6 - Repretel
+http://181.189.243.254:8000/play/a0qy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png" group-title="TV_CABLE", (ONLINE) A&E
+http://181.189.243.254:8000/play/a0s8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png" group-title="TV_CABLE", (ONLINE) A&E HD
+http://181.189.243.254:8000/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pr.png" group-title="TV_CABLE", (ONLINE) AMC
+http://181.189.243.254:8000/play/a0pr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q8.png" group-title="TV_CABLE", (ONLINE) AMC HD
+http://181.189.243.254:8000/play/a0q8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rd.png" group-title="TV_CABLE", (OFFLINE) Latin America Sport
+http://181.189.243.254:8000/play/a0rd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qx.png" group-title="TV_CABLE", (OFFLINE) MASTV - PAN
+http://181.189.243.254:8000/play/a0qx/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rf.png" group-title="TV_CABLE", (OFFLINE) MTV 00s
+http://181.189.243.254:8000/play/a0rf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sw.png" group-title="TV_CABLE", (OFFLINE) MTV 00s HD
+http://181.189.243.254:8000/play/a0sw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0po.png" group-title="TV_CABLE", (OFFLINE) MTV 80s
+http://181.189.243.254:8000/play/a0po/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pz.png" group-title="TV_CABLE", (OFFLINE) MTV HD
+http://181.189.243.254:8000/play/a0pz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pn.png" group-title="TV_CABLE", (OFFLINE) MTV Hits
+http://181.189.243.254:8000/play/a0pn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sv.png" group-title="TV_CABLE", (OFFLINE) MTV SIM HD
+http://181.189.243.254:8000/play/a0sv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nu.png" group-title="TV_CABLE", (OFFLINE) Mas Chic
+http://181.189.243.254:8000/play/a0nu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0og.png" group-title="TV_CABLE", (OFFLINE) Multimedios
+http://181.189.243.254:8000/play/a0og/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qw.png" group-title="TV_CABLE", (OFFLINE) NEXT - PAN
+http://181.189.243.254:8000/play/a0qw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t8.png" group-title="TV_CABLE", (OFFLINE) Nat Geo HD
+http://181.189.243.254:8000/play/a0t8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pk.png" group-title="TV_CABLE", (OFFLINE) National Geographic
+http://181.189.243.254:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p9.png" group-title="TV_CABLE", (OFFLINE) Nick Jr
+http://181.189.243.254:8000/play/a0p9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0so.png" group-title="TV_CABLE", (OFFLINE) Nick SIM HD
+http://181.189.243.254:8000/play/a0so/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ol.png" group-title="TV_CABLE", (OFFLINE) Paramount
+http://181.189.243.254:8000/play/a0ol/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t9.png" group-title="TV_CABLE", (OFFLINE) Paramount HD
+http://181.189.243.254:8000/play/a0t9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0td.png" group-title="TV_CABLE", (OFFLINE) Pasiones HD
+http://181.189.243.254:8000/play/a0td/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ow.png" group-title="TV_CABLE", (OFFLINE) Playboy
+http://181.189.243.254:8000/play/a0ow/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ts.png" group-title="TV_CABLE", (OFFLINE) QATAR en vivo
+http://181.189.243.254:8000/play/a0ts/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r5.png" group-title="TV_CABLE", (OFFLINE) RCN Novelas
+http://181.189.243.254:8000/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pd.png" group-title="TV_CABLE", (ONLINE) SEMILLITAS
+http://181.189.243.254:8000/play/a0pd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s5.png" group-title="TV_CABLE", (ONLINE) SONY
+http://181.189.243.254:8000/play/a0s5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sk.png" group-title="TV_CABLE", (ONLINE) SONY HD
+http://181.189.243.254:8000/play/a0sk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ph.png" group-title="TV_CABLE", (ONLINE) SPACE
+http://181.189.243.254:8000/play/a0ph/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0si.png" group-title="TV_CABLE", (ONLINE) STAR CHANNEL HD
+http://181.189.243.254:8000/play/a0si/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rm.png" group-title="TV_CABLE", (ONLINE) Sembrador
+http://181.189.243.254:8000/play/a0rm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qc.png" group-title="TV_CABLE", (ONLINE) Sony Movies HD
+http://181.189.243.254:8000/play/a0qc/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qf.png" group-title="TV_CABLE", (ONLINE) Star TVE HD
+http://181.189.243.254:8000/play/a0qf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q2.png" group-title="TV_CABLE", (ONLINE) Studio Universal HD
+http://181.189.243.254:8000/play/a0q2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r9.png" group-title="TV_CABLE", (ONLINE) Sun Channel
+http://181.189.243.254:8000/play/a0r9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s9.png" group-title="TV_CABLE", (ONLINE) SyFy
+http://181.189.243.254:8000/play/a0s9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pv.png" group-title="TV_CABLE", (ONLINE) TBN Enlace
+http://181.189.243.254:8000/play/a0pv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pj.png" group-title="TV_CABLE", (ONLINE) TBS
+http://181.189.243.254:8000/play/a0pj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ri.png" group-title="TV_CABLE", (ONLINE) TCM
+http://181.189.243.254:8000/play/a0ri/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oa.png" group-title="TV_CABLE", (ONLINE) TD+2 HD CR
+http://181.189.243.254:8000/play/a0oa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png" group-title="TV_CABLE", (ONLINE) TD+HD CR
+http://181.189.243.254:8000/play/a0o9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u6.png" group-title="TV_CABLE", (OFFLINE) TELEHIT HD
+http://181.189.243.254:8000/play/a0u6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u5.png" group-title="TV_CABLE", (OFFLINE) TELEMUNDO MIAMI
+http://181.189.243.254:8000/play/a0u5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sd.png" group-title="TV_CABLE", (ONLINE) TLC
+http://181.189.243.254:8000/play/a0sd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ue.png" group-title="TV_CABLE", (OFFLINE) TLNovelas
+http://181.189.243.254:8000/play/a0ue/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pq.png" group-title="TV_CABLE", (ONLINE) TNT
+http://181.189.243.254:8000/play/a0pq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sq.png" group-title="TV_CABLE", (ONLINE) TNT HD
+http://181.189.243.254:8000/play/a0sq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pi.png" group-title="TV_CABLE", (ONLINE) TNT Series
+http://181.189.243.254:8000/play/a0pi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ta.png" group-title="TV_CABLE", (ONLINE) TNT Series HD
+http://181.189.243.254:8000/play/a0ta/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0u8.png" group-title="TV_CABLE", (OFFLINE) TSI HN HD Backup
+http://181.189.243.254:8000/play/a0u8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ud.png" group-title="TV_CABLE", (ONLINE) TUDN
+http://181.189.243.254:8000/play/a0ud/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nw.png" group-title="TV_CABLE", (ONLINE) TVChile
+http://181.189.243.254:8000/play/a0nw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q1.png" group-title="TV_CABLE", (ONLINE) Teen Nick HD
+http://181.189.243.254:8000/play/a0q1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p1.png" group-title="TV_CABLE", (ONLINE) Tele Antillas - RD
+http://181.189.243.254:8000/play/a0p1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rz.png" group-title="TV_CABLE", (ONLINE) TeleMicro - RD
+http://181.189.243.254:8000/play/a0rz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rw.png" group-title="TV_CABLE", (ONLINE) Telecadena - HON
+http://181.189.243.254:8000/play/a0rw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qu.png" group-title="TV_CABLE", (ONLINE) Telecentro - RD
+http://181.189.243.254:8000/play/a0qu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pf.png" group-title="TV_CABLE", (ONLINE) Telemundo
+http://181.189.243.254:8000/play/a0pf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q9.png" group-title="TV_CABLE", (ONLINE) Telemundo HD
+http://181.189.243.254:8000/play/a0q9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p3.png" group-title="TV_CABLE", (ONLINE) Telesistema RD
+http://181.189.243.254:8000/play/a0p3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qr.png" group-title="TV_CABLE", (ONLINE) Teleuniverso - RD
+http://181.189.243.254:8000/play/a0qr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0of.png" group-title="TV_CABLE", (ONLINE) Televida RD
+http://181.189.243.254:8000/play/a0of/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sn.png" group-title="TV_CABLE", (ONLINE) Tigo Sports HD
+http://181.189.243.254:8000/play/a0sn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s3.png" group-title="TV_CABLE", (ONLINE) Tooncast
+http://181.189.243.254:8000/play/a0s3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pe.png" group-title="TV_CABLE", (ONLINE) Tru TV
+http://181.189.243.254:8000/play/a0pe/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v2.png" group-title="TV_CABLE", (ONLINE) UNIVERSAL CINEMA HD
+http://181.189.243.254:8000/play/a0v2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t1.png" group-title="TV_CABLE", (ONLINE) UNIVERSAL COMEDY HD
+http://181.189.243.254:8000/play/a0t1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t0.png" group-title="TV_CABLE", (ONLINE) UNIVERSAL CRIME HD
+http://181.189.243.254:8000/play/a0t0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ui.png" group-title="TV_CABLE", (ONLINE) UNIVERSAL PREMIERE HD
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0uj.png" group-title="TV_CABLE", (ONLINE) UNIVERSAL PREMIERE O HD
+http://181.189.243.254:8000/play/a0uj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sz.png" group-title="TV_CABLE", (ONLINE) UNIVERSAL REALITY HD
+http://181.189.243.254:8000/play/a0sz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v0.png" group-title="TV_CABLE", (ONLINE) Univision HD
+http://181.189.243.254:8000/play/a0v0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r1.png" group-title="TV_CABLE", (ONLINE) VTV Canal 35 ESA
+http://181.189.243.254:8000/play/a0r1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0tk.png" group-title="TV_CABLE", (ONLINE) WARNER HD
+http://181.189.243.254:8000/play/a0tk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s6.png" group-title="TV_CABLE", (ONLINE) Warner
+http://181.189.243.254:8000/play/a0s6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nt.png" group-title="TV_CABLE", (ONLINE) ZooMoo
+http://181.189.243.254:8000/play/a0nt/index.m3u8
+
