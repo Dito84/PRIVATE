@@ -168,6 +168,9 @@ http://flash.shortgod.com/nodawin/tv4.php?id=4309&f=.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/blob/main/24-7.png" group-title="CANALES 24/7", LOKI
 http://flash.shortgod.com/nodawin/tv4.php?id=366&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="PELI - ACCION", ELEMENTOS PELICULA 2023
+https://drive.google.com/uc?export=download&confirm=t&id=1CFfgXTSVsjcxv_JfBkMqYfZYEciJomYz&name=ELEMENTOS
+
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r0.png" group-title="TV_CABLE", (ONLINE) 11 - Repretel
 http://181.189.243.254:8000/play/a0r0/index.m3u8
 
