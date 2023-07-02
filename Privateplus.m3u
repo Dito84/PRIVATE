@@ -10,7 +10,7 @@ http://200.41.79.165:8000/play/a05o/index.m3u8
 http://200.41.79.165:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/ATB.png" group-title="BOLIVIA", ATB
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsETj0jhowGUh6DjxIcE4naFs8c6UUwvvph20EorBtTg)/dm/3/x84eirw/s/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOry9or-xFaTw2sM9AbyIiqt3P3ouScA1uFgKugRxzjad)/dm/3/x84eirw/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/99e25e18cf02468d9800bcf8a508e48d.jpg" group-title="CHILE", CANAL RCN1
 http://200.41.79.165:8000/play/a006/index.m3u8
@@ -40,11 +40,11 @@ http://200.41.79.165:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/38i00x9ksdpipoy/BOLIVIA%20TV.jpg?dl=1" group-title="BOLIVIA", Bolivia TV
 https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w459628693.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjowNTozMyBQTSZoYXNoX3ZhbHVlPThpcENzZEFBaXBKejVIU2RMZkNEb1E9PSZ2YWxpZG1pbnV0ZXM9MjUmaWQ9
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/38i00x9ksdpipoy/BOLIVIA%20TV.jpg?dl=1" group-title="BOLIVIA", Bolivia TV 2
-https://5f2c1b0d880e5.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/38i00x9ksdpipoy/BOLIVIA%20TV.jpg?dl=1" group-title="BOLIVIA", BOLIVIA TV 2
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOry9or-xFaTw2sM9AbyIiqt3P3ouScA1uFgKugRxzjad)/dm/3/x84eirw/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", BOLIVISION
-https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
+https://d3eyooyk041snj.cloudfront.net:443/hls/live_240p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/n9v3qhot9pgbrzc/CADENA%20A.jpg?dl=1" group-title="BOLIVIA", CADENA A
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
