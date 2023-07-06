@@ -171,91 +171,90 @@ http://pe.shortgod.com/ponch/tv4.php?id=366&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="PELI - ACCION", ELEMENTOS PELICULA 2023
 https://drive.google.com/uc?export=download&confirm=t&id=1CFfgXTSVsjcxv_JfBkMqYfZYEciJomYz&name=ELEMENTOS
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/oWH0Z5lpOnEoo3g2gFHAABtMFC4.jpg"  group-title="Lista 13",  24/7 ALF
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9RZkGoIZSl0KDiY5WBtOlw/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTelnop.jpeg"  group-title="CANALES 24/7",  24/7 American Horror Story
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_Mkg8_g2XOVmlRNO6l_jHP/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaGAKDl.jpeg"  group-title="CANALES 24/7",  24/7 Anatomía de Grey (Temp 1- 10)
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-aLwJWZKDbKFqQUI0ZY2e_/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3BxcXZ.jpeg"  group-title="CANALES 24/7",  24/7 Anatomía de Grey (Temp 11 - 19)
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_79w-qXLuQMbkVsHZogYBh/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CA7WlYK.png"  group-title="CANALES 24/7",  24/7 Ataque a los Titanes
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_h9aAamORqokHUdUFF_ayJ/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NSLUF51.jpeg"  group-title="INFANTILES - ANIME",  24/7 Boruto Naruto Next Generations
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-vlGJRx3TsQ20hlJR_hG42/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43xTxJ.png"  group-title="CANALES 24/7",  24/7 Castlevania
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y835XuvJesp5tP2g_LlbIMs/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1bWKinJ.jpeg"  group-title="CANALES 24/7",  24/7 Cine Marvel
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-L2wau8CrjZx-OTTZeTGIp/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jfWrrCz.jpeg"  group-title="CANALES 24/7",  24/7 Cine Terror
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-13h74GFlbrcZZKdxh7uGL/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JnS7s28.jpeg"  group-title="INFANTILES - ANIME",  24/7 Cowboy Bebop Anime
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_Aqz30B32L8NL-4qWwIvhb/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yiso05B.jpeg"  group-title="CANALES 24/7",  24/7 Death Note
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_TiO728OlRbormUBOhHY1H/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jtzm2NS.jpeg"  group-title="INFANTILES - ANIME",  24/7 Digimon Adventure
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8RHXxyX7ANNDR-SaBQXrvF/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/We8Q65u.jpeg"  group-title="INFANTILES - ANIME",  24/7 Digimon Adventure (2020)
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9XUYi2SihgOOPFYlTJbcWK/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lpy5HxJhmPjzAikPYD6CKCCIawd.jpg"  group-title="INFANTILES - ANIME",  24/7 Dragon Ball GT
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-do88xPXvFRoSmfdHqitv1/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q086RwE.jpeg"  group-title="INFANTILES - ANIME",  24/7 Dragon Ball Super
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9m2O4gGTJf7hYL1kVFxZAz/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pwGbvnOi0dbnVCLfz7tM6HUrwBp.jpg"  group-title="INFANTILES - ANIME",  24/7 Dragon Ball Z -  Saga de Babidi y Majin Bu
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9jsdqE8iTXGqXxMYFw9sd2/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/buhYcHTEMSt9mmlkz8QIOJjFi29.jpg"  group-title="INFANTILES - ANIME",  24/7 Dragon Ball Z - Saga de Cell
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8g6d84nEl-i9rUJ7-OT9EX/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3bcvSMybffh380rvycwO77YNetl.jpg"  group-title="INFANTILES - ANIME",  24/7 Dragon Ball Z - Saga de Freezer
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8W7vLMO2iYUFY2UWosJGAI/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iihDvxZH03TjI5l53E8kTcromHh.jpg"  group-title="INFANTILES - ANIME",  24/7 Dragon Ball Z - Saga de los Saiyajins
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8uS5_5Ue_H2fE4JP--_edX/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FmOvXCx.jpeg"  group-title="CANALES 24/7",  24/7 Ecomoda
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9D-5yYxvxJk7HGfaRJrAjS/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvIrrZ8.jpeg"  group-title="CANALES 24/7",  24/7 El Chavo del Ocho
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_lRVfwfpEjMwTh_Q9iJppU/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oCoR2Ln.jpeg"  group-title="CANALES 24/7",  24/7 El final del paraíso
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8Vxexr8wtrd05UJJ5m1xSk/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/onjQhIo.jpeg"  group-title="CANALES 24/7",  24/7 Élite
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_ZEo6cLJ2eArxbq7bGbC59/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83vf7i0.jpeg"  group-title="CANALES 24/7",  24/7 Friends (Temp 1 - 5)
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_oX5pHVYytT0Ydipgtno5M/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nwIcV7S.jpeg"  group-title="CANALES 24/7",  24/7 Friends (Temp 6 - 10)
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-eBHrfIc7tlOsaBDzf4nRS/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp2P301.png"  group-title="CANALES 24/7",  24/7 Fullmetal Alchemist: Brotherhood
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8Y7EWII09jWiPYiSzYz-2y/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0e0ZDW.jpeg"  group-title="CANALES 24/7",  24/7 Hasta que la plata nos separe
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9U3OF39xpgzdWYt0Isf0gg/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JzDyaVH.png"  group-title="CANALES 24/7",  24/7 Hunter x Hunter (1999)
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_feKR9_E8wsKb5sdMJYIAQ/m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IuC1MV7.jpeg"  group-title="CANALES 24/7",  24/7 La teoría del Big Bang
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-P_KCKHs8WuIwgX2-30mzE/m3u8
 
