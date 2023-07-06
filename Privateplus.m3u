@@ -10,7 +10,7 @@ http://200.41.79.165:8000/play/a05o/index.m3u8
 http://200.41.79.165:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/ATB.png" group-title="BOLIVIA", ATB
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOry9or-xFaTw2sM9AbyIiqt3P3ouScA1uFgKugRxzjad)/dm/3/x84eirw/s/live-2.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286023
 
 #EXTINF:-1 tvg-logo="http://haibao.magstv.com/data/usee/space/99e25e18cf02468d9800bcf8a508e48d.jpg" group-title="CHILE", CANAL RCN1
 http://200.41.79.165:8000/play/a006/index.m3u8
@@ -50,7 +50,10 @@ https://d3eyooyk041snj.cloudfront.net:443/hls/live_240p30.m3u8
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://108.175.10.242:80/images/f50af5e9c4ecfd1100ab71eabe0bc571.png" group-title="BOLIVIA", MegaTV (Yacuiba)
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286028
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/de6dc4a6a30c97aa43ac41f077d6c17d.png", Gigavision
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/48273
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wfpa1ubbtawaiq1/PAT.png?dl=1" group-title="BOLIVIA", PAT Bolivia
 hhttps://w8.redpat.tv:7777/play/110/index.m3u8
@@ -68,10 +71,19 @@ http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://108.175.10.242:80/images/138b40fe974c5748f95b3e73c2c6d8cc.png" group-title="BOLIVIA", TVU Sucre
-https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286032
 
 #EXTINF:-1 tvg-logo="https://github.com/Dito84/ICONO_IPTV/raw/main/UNITEL.jpg" group-title="BOLIVIA", UNITEL Santa Cruz
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWz9lchVFoCIvg-qPOH_FH4KDU1gj9ik3ag0aznsm6FQ)/dm/3/x7vsezg/d/live-2.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8775
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bcbd0194eaa2a08342541c6015c1966d.png", SEO TV Novelas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286045
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/ec7ed727cea5ae7498c79febc4b4adc3.svg", Tastemade
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286048
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a1a313ae450a23ce178f42c8cf60059e.png", TVG America
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286058
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e14268c678a0ed6235035527c08265af.jfif", El Opa
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295628
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ddaemoctqneeney/CINECANAL%20HD.png?dl=1" group-title="CINE Y SERIES", CINECANAL HD
 http://190.83.116.230:9010/play/a054/index.m3u8
