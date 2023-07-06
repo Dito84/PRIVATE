@@ -239,9 +239,11 @@ http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y8Vxexr8wtr
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_ZEo6cLJ2eArxbq7bGbC59/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83vf7i0.jpeg"  group-title="CANALES 24/7",  24/7 Friends (Temp 1 - 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_oX5pHVYytT0Ydipgtno5M/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nwIcV7S.jpeg"  group-title="CANALES 24/7",  24/7 Friends (Temp 6 - 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-eBHrfIc7tlOsaBDzf4nRS/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp2P301.png"  group-title="CANALES 24/7",  24/7 Fullmetal Alchemist: Brotherhood
@@ -254,6 +256,7 @@ http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y9U3OF39xpg
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y_feKR9_E8wsKb5sdMJYIAQ/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IuC1MV7.jpeg"  group-title="CANALES 24/7",  24/7 La teoría del Big Bang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://apphd.net:25461/play/roBFknYUbOkhD5yaxD8P7JexBUEZ1baACDK501Z45Y-P_KCKHs8WuIwgX2-30mzE/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpweFlH.jpeg"  group-title="INFANTILES - ANIME",  24/7 Los Caballeros del Zodiaco
