@@ -768,19 +768,27 @@ http://skycastersupports.mine.nu:25461/scooby/scooby/37023
 http://skycastersupports.mine.nu:25461/scooby/scooby/37024
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Peppa Pig
 http://skycastersupports.mine.nu:25461/scooby/scooby/37025
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Futurama HD
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | FUTURAMA HD
 http://skycastersupports.mine.nu:25461/scooby/scooby/37026.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Pokemon
 http://skycastersupports.mine.nu:25461/scooby/scooby/37027.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Futurama HD
 http://skycastersupports.mine.nu:25461/scooby/scooby/37026.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Avengers HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Avengers HD
 http://skycastersupports.mine.nu:25461/scooby/scooby/37199.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsonps HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Los Simpsonps HD
 http://skycastersupports.mine.nu:25461/scooby/scooby/37951.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Años Maravillos" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Años Maravillos
 http://skycastersupports.mine.nu:25461/scooby/scooby/40695.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teletica_cr.png" group-title="TV | Costa Rica",CR | Teletica 7 HD
 http://skycastersupports.mine.nu:25461/scooby/scooby/40745.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Johnny Bravo" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | JONNY BRAVO MOD
 http://skycastersupports.mine.nu:25461/scooby/scooby/40750.m3u8
