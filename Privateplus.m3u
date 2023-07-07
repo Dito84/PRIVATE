@@ -743,3 +743,44 @@ http://45.5.117.182:8000/play/l0hj/index.m3u8
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 #EXTINF:-1,191. SOLOLATECO
 http://45.5.117.182:8000/play/jhl0/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson New HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Los Simpson New HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37014
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Game of Thrones HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Game of Thrones HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37015
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Desafio Sobre Rueda HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Desafio Sobre Rueda HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Casa de Papel HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | La Casa de Papel HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37017
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedras" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Los Picapiedras
+http://skycastersupports.mine.nu:25461/scooby/scooby/37018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pedro Infante" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Pedro Infante
+http://skycastersupports.mine.nu:25461/scooby/scooby/37019
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chavo del Ocho" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | El Chavo del Ocho
+http://skycastersupports.mine.nu:25461/scooby/scooby/37020
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Familia Peluche" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | La Familia Peluche
+http://skycastersupports.mine.nu:25461/scooby/scooby/37021
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Chapulin Colorado" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 |  Chapulin Colorado
+http://skycastersupports.mine.nu:25461/scooby/scooby/37022
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Acapulco Shore" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Acapulco Shore
+http://skycastersupports.mine.nu:25461/scooby/scooby/37023
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOLM EL DE ENMEDIO FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | MALCOLM EL DE ENMEDIO FHD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37024
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Peppa Pig
+http://skycastersupports.mine.nu:25461/scooby/scooby/37025
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Futurama HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37026
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Pokemon
+http://skycastersupports.mine.nu:25461/scooby/scooby/37027
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Futurama HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37026
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Avengers HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Avengers HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsonps HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Los Simpsonps HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/37951
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Años Maravillos" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Años Maravillos
+http://skycastersupports.mine.nu:25461/scooby/scooby/40695
+#EXTINF:-1 tvg-id="" tvg-name="CR | Teletica 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teletica_cr.png" group-title="TV | Costa Rica",CR | Teletica 7 HD
+http://skycastersupports.mine.nu:25461/scooby/scooby/40745
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Johnny Bravo" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="TV | 24/7 Vip Ondemand",24/7 | Johnny Bravo
+http://skycastersupports.mine.nu:25461/scooby/scooby/40750
