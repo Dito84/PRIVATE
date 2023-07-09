@@ -124,7 +124,6 @@ http://skycastersupports.mine.nu:25461/scooby/scooby/45148
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Walking Dead" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="CANALES 24/7",24/7 | The Walking Dead
 http://skycastersupports.mine.nu:25461/scooby/scooby/45154
 #EXTINF:-1, tvg-id="" tvg-name="24/7 | El Santo" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", El Santo
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=126.ts
 
 #EXTINF:-1, tvg-id="" tvg-name="Aquaman Classic 1967-1970" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Aquaman Classic 1967-1970
