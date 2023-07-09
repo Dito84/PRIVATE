@@ -123,41 +123,45 @@ http://skycastersupports.mine.nu:25461/scooby/scooby/44271
 http://skycastersupports.mine.nu:25461/scooby/scooby/45148
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Walking Dead" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="CANALES 24/7",24/7 | The Walking Dead
 http://skycastersupports.mine.nu:25461/scooby/scooby/45154
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", El Santo
+#EXTINF:-1, tvg-id="" tvg-name="24/7 | El Santo" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", El Santo
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=126.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Aquaman Classic 1967-1970
+#EXTINF:-1, tvg-id="" tvg-name="Aquaman Classic 1967-1970" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Aquaman Classic 1967-1970
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=143.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", AstroBoy 1980 Classic
+#EXTINF:-1, tvg-id="" tvg-name="AstroBoy 1980 Classic" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", AstroBoy 1980 Classic
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=141.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Canuto & Canito
+#EXTINF:-1, tvg-id="" tvg-name="Canuto & Canito" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Canuto & Canito
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=121.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 1
+#EXTINF:-1, tvg-id="" tvg-name="24/7 | El Santo" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 1
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=99.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 2
+#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 2" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 2
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=102.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 3
+#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 3" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 3
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=103.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 4
+#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 4" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 4
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=104.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 5
+#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 5" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 5
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=131.ts
+
+#EXTINF:-1, tvg-id="" tvg-name="24/7 | Cine PopCorn 50 Best Films" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 50 Best Films
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/ponch/tv2.php?id=112.ts
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 50 Best Films
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
