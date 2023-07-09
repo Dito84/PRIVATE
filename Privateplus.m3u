@@ -315,7 +315,6 @@ http://pe.shortgod.com/ponch/tv2.php?id=140.ts
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=146.ts
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0r0.png",11 - Repretel
 http://181.189.243.254:8000/play/a0r0/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0oh.png",13-Sinart
