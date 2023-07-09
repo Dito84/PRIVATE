@@ -123,89 +123,90 @@ http://skycastersupports.mine.nu:25461/scooby/scooby/44271
 http://skycastersupports.mine.nu:25461/scooby/scooby/45148
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Walking Dead" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema-mn.png" group-title="CANALES 24/7",24/7 | The Walking Dead
 http://skycastersupports.mine.nu:25461/scooby/scooby/45154
-#EXTINF:-1, tvg-id="" tvg-name="24/7 | El Santo" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", El Santo
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", El Santo
 http://pe.shortgod.com/ponch/tv2.php?id=126.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="Aquaman Classic 1967-1970" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Aquaman Classic 1967-1970
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Aquaman Classic 1967-1970
 http://pe.shortgod.com/ponch/tv2.php?id=143.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="AstroBoy 1980 Classic" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", AstroBoy 1980 Classic
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", AstroBoy 1980 Classic
 http://pe.shortgod.com/ponch/tv2.php?id=141.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="Canuto & Canito" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Canuto & Canito
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Canuto & Canito
 http://pe.shortgod.com/ponch/tv2.php?id=121.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="24/7 | El Santo" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 1
 http://pe.shortgod.com/ponch/tv2.php?id=99.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 2" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 2
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 2
 http://pe.shortgod.com/ponch/tv2.php?id=102.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 3" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 3
 http://pe.shortgod.com/ponch/tv2.php?id=103.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 4" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 4
 http://pe.shortgod.com/ponch/tv2.php?id=104.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="Cine PopCorn 5" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 5
 http://pe.shortgod.com/ponch/tv2.php?id=131.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="24/7 | Cine PopCorn 50 Best Films" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 50 Best Films
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 50 Best Films
 http://pe.shortgod.com/ponch/tv2.php?id=112.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 50 Best Films
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 50 Best Films
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=112.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA",, Cine PopCorn 6
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=132.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 7
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=133.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn 8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn 8
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=134.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn Bonds
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Bonds
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=113.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn Christmas Movies
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Christmas Movies
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=110.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Cine PopCorn DBZ
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn DBZ
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=106.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Cine PopCorn Looney T.
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Looney T.
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=107.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn Max
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Max
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=105.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn Nominated F. WJJ
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Nominated F. WJJ
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=109.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn Oscar Winning A.
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Oscar Winning A.
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=108.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="CANALES 24/7", Cine PopCorn Saga Collection
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Cine PopCorn Saga Collection
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=111.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Corre Caminos
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Corre Caminos
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=135.ts
 
-#EXTINF:-1, tvg-id=""  tvg-logo="https://www.mejorinformado.com/u/fotografias/m/2014/12/10/f608x342-10769_40492_0.jpg" group-title="INFANTILES - ANIME", Don Gato y Su Pandilla
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/np842pw0kqpvsuq/BOLIVISION.jpg?dl=1" group-title="BOLIVIA", Don Gato y Su Pandilla
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/ponch/tv2.php?id=116.ts
 
