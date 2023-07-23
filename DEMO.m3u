@@ -96,7 +96,7 @@ http://pe.shortgod.com/pon/tv2.php?id=127.ts
 http://pe.shortgod.com/pon/tv2.php?id=140.ts
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD", 24/7 : Tiro Loco McGraw
 http://pe.shortgod.com/pon/tv2.php?id=146.ts
-#EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/alf.png",  Alf 24/7
+#EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/alf.png",  Alf 24/7 P
 http://pe.shortgod.com/pon/tv1.php?id=426
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/animaniacs.png", Animaniacs 24/7
 http://pe.shortgod.com/pon/tv1.php?id=677
