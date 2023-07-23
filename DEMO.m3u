@@ -1,19 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/alf.png",  Alf 24/7 P
+#EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/alf.png",  Alf 24/7 B
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/pon/tv1.php?id=426
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/animaniacs.png", Animaniacs 24/7
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/pon/tv1.php?id=677
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/bobesponja.png", Bob Esponja 24/7
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://pe.shortgod.com/pon/tv1.php?id=518
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/breakingbad.png", Breaking Bad 24/7
 http://pe.shortgod.com/pon/tv1.php?id=846
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png", Caballeros del Zodiaco 24/7
-http://pe.shortgod.com/pon/tv1.php?id=427
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pon/tv1.php?id=427.TS
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/candy.png", Candy 24/7
-http://pe.shortgod.com/pon/tv1.php?id=808
+http://pe.shortgod.com/pon/tv1.php?id=808.ts
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/cantinflas.png", Cantinflas 24/7
-http://pe.shortgod.com/pon/tv1.php?id=428
+http://pe.shortgod.com/pon/tv1.php?id=428.ts
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/casocerrado.png", Caso Cerrado 24/7
 http://pe.shortgod.com/pon/tv1.php?id=907
 #EXTINF:-1 group-title="CANALES 24/7 SHORTGOD" tvg-logo="http://x.playerlatino.live/celebritydeathmatch.png", Celebrity Deathmatch (EN) 24/7
