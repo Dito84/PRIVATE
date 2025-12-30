@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png",Doraemon 24/7
-http://pe.shortgod.com/sopa/tv1.php?id=521
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png",Dragon Ball (ES) 24/7
-http://pe.shortgod.com/sopa/tv1.php?id=984
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png",Dragon Ball 24/7
-http://pe.shortgod.com/sopa/tv1.php?id=425
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png",Dragon Ball GT 24/7
-http://pe.shortgod.com/sopa/tv1.php?id=520
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png",Dragon Ball Super 24/7
-http://pe.shortgod.com/sopa/tv1.php?id=424
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png",Dragon Ball Z 24/7
-http://pe.shortgod.com/sopa/tv1.php?id=329
+#EXTGRP:Chill Vibes
+#EXTINF:-1,Lo-Fi Study Beats - Lofi Girl
+https://archive.org/download/lo-fi-hip-hop-mix-1/lo-fi-hip-hop-mix-1.mp3
+#EXTINF:-1,Jazzy Relaxing Cafe Music
+https://archive.org/download/jazzy-relaxing-cafe-music-2023/Jazzy%20Relaxing%20Cafe%20Music%20-%20Background%20Jazz%20for%20Work%2C%20Study%2C%20Reading.mp3
+
+#EXTGRP:Electronic Beats
+#EXTINF:-1,Synthwave Retro 80s
+https://archive.org/download/Synthwave-Retro/Synthwave%20Retro%20-%20Future%20Funk%20Mix.mp3
+#EXTINF:-1,Upbeat Electronic Energy
+https://archive.org/download/upbeat-electronic-energy/Upbeat%20Electronic%20Energy%20-%20Motivational%20Music.mp3
+
+#EXTGRP:Classic Rock
+#EXTINF:-1,70s Rock Anthem
+https://archive.org/download/70s-rock-anthem/70s%20Rock%20Anthem%20-%20Guitar%20Riff.mp3
+#EXTINF:-1,Bluesy Guitar Jam
+https://archive.org/download/bluesy-guitar-jam/Bluesy%20Guitar%20Jam%20-%20Slow%20Tempo.mp3
+
+#EXTGRP:No-Musica (Para Probar Filtro)
+#EXTINF:-1,Documental: La Vida Salvaje
+http://example.com/video.mp4
