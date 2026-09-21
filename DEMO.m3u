@@ -1,22 +1,11 @@
 #EXTM3U
-#EXTGRP:Chill Vibes
-#EXTINF:-1,Lo-Fi Study Beats - Lofi Girl
-https://archive.org/download/lo-fi-hip-hop-mix-1/lo-fi-hip-hop-mix-1.mp3
-#EXTINF:-1,Jazzy Relaxing Cafe Music
-https://archive.org/download/jazzy-relaxing-cafe-music-2023/Jazzy%20Relaxing%20Cafe%20Music%20-%20Background%20Jazz%20for%20Work%2C%20Study%2C%20Reading.mp3
-
-#EXTGRP:Electronic Beats
-#EXTINF:-1,Synthwave Retro 80s
-https://archive.org/download/Synthwave-Retro/Synthwave%20Retro%20-%20Future%20Funk%20Mix.mp3
-#EXTINF:-1,Upbeat Electronic Energy
-https://archive.org/download/upbeat-electronic-energy/Upbeat%20Electronic%20Energy%20-%20Motivational%20Music.mp3
-
-#EXTGRP:Classic Rock
-#EXTINF:-1,70s Rock Anthem
-https://archive.org/download/70s-rock-anthem/70s%20Rock%20Anthem%20-%20Guitar%20Riff.mp3
-#EXTINF:-1,Bluesy Guitar Jam
-https://archive.org/download/bluesy-guitar-jam/Bluesy%20Guitar%20Jam%20-%20Slow%20Tempo.mp3
-
-#EXTGRP:No-Musica (Para Probar Filtro)
-#EXTINF:-1,Documental: La Vida Salvaje
-http://example.com/video.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/LOGOPELICULAS/refs/heads/main/PACHA.jpg" group-title="PELICULAS BOLIVIANAS" tvg-type="movie",PACHA
+https://archive.org/download/bolivia_202609/Pacha.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/LOGOPELICULAS/refs/heads/main/ABUELA%20GRILLO.jpg" group-title="PELICULAS BOLIVIANAS" tvg-type="movie",ABUELA GRILLO
+https://archive.org/download/colecbol/Abuela%20grillo.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/LOGOPELICULAS/refs/heads/main/AMARGOMAR.jpg" group-title="PELICULAS BOLIVIANAS" tvg-type="movie",AMARGO MAR
+https://archive.org/download/colecbol/Amargo%20mar.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/LOGOPELICULAS/refs/heads/main/AMERICAN%20VISA.jpg" group-title="PELICULAS BOLIVIANAS" tvg-type="movie",AMERICAN VISA
+https://archive.org/download/colecbol/American%20Visa.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dito84/LOGOPELICULAS/refs/heads/main/BOLISHOPING.jpg" group-title="PELICULAS BOLIVIANAS" tvg-type="movie",BOLISHOPPING
+https://archive.org/download/colecbol/Bolishopping.mp4
